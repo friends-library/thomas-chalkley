@@ -165,43 +165,55 @@ which troubled the sober people.
 After this I met with the governor at the house of one judge Stafford;
 and he being a moderate man, we had the following discourse:
 
-Governor: How do you like our country?
+[.discourse-part]
+_Governor:_ How do you like our country?
 We are but a little spot in the sea.
 
-T+++.+++ Chalkley:--I like it well for its moderate climate.
+[.discourse-part]
+_T+++.+++ Chalkley:_--I like it well for its moderate climate.
 If the people were moderate also, it would be well.
 
-Governor: Does it answer your end in coming?
+[.discourse-part]
+_Governor:_ Does it answer your end in coming?
 
-T+++.+++ Chalkley: My end in coming, was to visit the people in Christian love.
+[.discourse-part]
+_T+++.+++ Chalkley:_ My end in coming, was to visit the people in Christian love.
 
-Governor: Do you think the people will be brought over?
+[.discourse-part]
+_Governor:_ Do you think the people will be brought over?
 
-T+++.+++ Chalkley: If they are brought to truth and righteousness, it will be well for them.
+[.discourse-part]
+_T+++.+++ Chalkley:_ If they are brought to truth and righteousness, it will be well for them.
 That is the end of our coming.
 
-Governor: If you had acquainted me with your design, when you first came,
+[.discourse-part]
+_Governor:_ If you had acquainted me with your design, when you first came,
 you had done well.
 It was your duty.
 
-T+++.+++ Chalkley: If we had known the governor`'s will herein,
+[.discourse-part]
+_T+++.+++ Chalkley:_ If we had known the governor`'s will herein,
 or that you would have spoken with us, we should have readily answered it:
 but knowing nothing of it,
 we could not tell but that it might be taken for rudeness in us,
 considering our homely way and manner of addressing such men.
 
-Governor: Then your design in coming here was to preach.
+[.discourse-part]
+_Governor:_ Then your design in coming here was to preach.
 Had you no other end?
 
-T+++.+++ Chalkley: Yes.
+[.discourse-part]
+_T+++.+++ Chalkley:_ Yes.
 As we found a concern upon us to preach, and a desire in the people to hear.
 
-Governor: Why do you not tarry with them?
+[.discourse-part]
+_Governor:_ Why do you not tarry with them?
 that looks strange.
 Here the people are affected with you, and you go away and leave them:
 I blame you for that.
 
-T+++.+++ Chalkley: We do not direct them to men, but to the Lord Jesus Christ, their teacher,
+[.discourse-part]
+_T+++.+++ Chalkley:_ We do not direct them to men, but to the Lord Jesus Christ, their teacher,
 and the bishop of their souls.
 And why should our leaving them look strange to the governor?
 It was the practice of the apostles of our Lord Jesus Christ,
@@ -211,30 +223,40 @@ follow us, as we are followers of Christ.
 They travelled up and down the world preaching the gospel;
 and our great Lord himself had not whereon to lay his head.
 
-Governor: The apostles were inspired men;
+[.discourse-part]
+_Governor:_ The apostles were inspired men;
 inspired by the Holy Spirit to preach the gospel.
 I suppose you do not pretend to be inspired.
 
-T+++.+++ Chalkley:
+[.discourse-part]
+_T+++.+++ Chalkley:_
 Every true Christian ought to pray for the pouring
 out of the Holy Spirit or Holy Spirit upon him.
 The church of England^
 footnote:[Of which church the governor was a member.]
 also prays for it, the receiving of which is inspiration.
 
-Governor: Your reasons being grounded on Scripture, you are well grounded;
+[.discourse-part]
+_Governor:_ Your reasons being grounded on Scripture, you are well grounded;
 for no man can deny the Scriptures.
 Then you say you are inspired?
 
-T+++.+++ Chalkley: I hope I am.
+[.discourse-part]
+_T+++.+++ Chalkley:_ I hope I am.
 I pray for it with great earnestness.
 
-Governor: Then it is but ask, and have, you think.
+[.discourse-part]
+_Governor:_ Then it is but ask, and have, you think.
 
-T+++.+++ Chalkley: If we ask in faith, without wavering, we shall receive,
+[.discourse-part]
+_T+++.+++ Chalkley:_ If we ask in faith, without wavering, we shall receive,
 according to the doctrine of Christ and his apostles in the New Testament.
 
-Governor: Well, If any have a desire to hear you, you may preach and welcome.
+[.discourse-part]
+_Governor:_ Well, If any have a desire to hear you, you may preach and welcome.
+
+[.small-break]
+'''
 
 After I had this discourse with the governor, it was reported on the island,
 that he had given us a license to preach, which report was not true,
@@ -417,6 +439,9 @@ could not consent to go with her;
 and having left a particular account in a letter to her children of her and their preservation,
 I think it worthy to be inserted here in her own words:
 
+[.embedded-content-document.letter]
+--
+
 When the cruel Indians were allowed to kill and destroy, it was shown me,
 that I must stand in a testimony for truth, and trust in the name of the Lord,
 who is a strong tower, and that we should wait upon him.
@@ -512,7 +537,10 @@ Oh! blessing, and honour, and everlasting high praises, be given to the Lord,
 and to his dear Son, our Saviour and mediator, Christ Jesus.
 Amen.
 
+[.signed-section-signature]
 Mary Doe.
+
+--
 
 A neighbour of the aforesaid people told me, that as he was at work in his field,
 the Indians saw and called him, and he went to them.
