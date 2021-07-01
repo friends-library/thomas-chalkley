@@ -1,7 +1,7 @@
 [short="A Loving Invitation to Young and Old"]
 == A Loving Invitation to Young and Old, in Holland and Elsewhere, to Seek and Love Almighty God, and to Prepare in Time for Their Eternal Welfare.
 
-=== PREFACE.
+=== Preface.
 
 Having from my childhood been a lover of the Dutch,
 and that love being increased by travelling in Holland and Germany,
@@ -40,6 +40,7 @@ Amen.
 
 So wisheth and heartily prayeth, a friend to, and lover of all mankind.
 
+[.signed-section-signature]
 Thomas Chalkley.
 
 It is a thing truly excellent for mortals to love, serve, and fear him that made them,
@@ -71,11 +72,18 @@ when lying on a dying bed.
 
 It will therefore be well for both old and young to note this:
 
-First; The old, because it is not likely they should have many days,
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ The old, because it is not likely they should have many days,
 according to the course of nature and a common proverb, i. e., the young may die,
 but the old must die.
 
-Second; The young, because they know not but that they may die tomorrow.
+[.numbered]
+_Second;_ The young, because they know not but that they may die tomorrow.
+
+====
 
 In the great and notable day of the Most High,
 heavenly things will be found serious and solid truths, and not toys and trifles,
@@ -385,6 +393,8 @@ and recommend the work, with the reader, to the grace of God,
 in and through his dear Son Christ Jesus, our great example: to whom with the Father,
 through the divine Spirit, be glory forever.
 
+[.signed-section-signature]
 Thomas Chalkley.
 
+[.signed-section-context-close]
 Written at Frederickstadt, in Holstein.
