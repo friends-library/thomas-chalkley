@@ -22,8 +22,13 @@ to whom I thought it my duty to write a few lines about the salutations
 and language I would have them trained up in,
 which were on this wise:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Frankford, 30th of Fifth month, 1727.
 
+[.salutation]
 Loving friend, Nathaniel Walton,
 
 I hope thou wilt excuse the freedom which I take with thee,
@@ -61,7 +66,10 @@ not questioning thy ability therein; and if they want correction, spare not the 
 I hope thou wilt observe this direction in teaching my children,
 in which thou wilt oblige thy assured friend,
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+--
 
 The latter end of the fifth, and the beginning of the sixth months,
 the weather was exceedingly hot, so that several people died suddenly of the heat,
@@ -98,7 +106,11 @@ going into my closet, I there met with a paper of my son-in-law, Isaac Brown`'s,
 and finding the contents were religious, as I had done of several of his late writings,
 I found it on my mind to write to him after this manner:
 
-"`My dear son, Isaac,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+My dear son, Isaac,
 
 By several writings of thine, of late,
 I perceive that a good thing is at work in thy mind,
@@ -131,7 +143,10 @@ and of me thy loving and careful father,
 if thou followest and perseverest in the ways of virtue and truth; which,
 that thou mayest, is the prayer of thy affectionate father-in-law,
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+--
 
 The latter end of the sixth month I went to the general meeting
 of ministers and elders for the east part of New Jersey,
@@ -231,8 +246,13 @@ and yet I have nothing to boast of; it is the Lord`'s grace and mercy which save
 Having occasion to make another voyage to Barbados,
 I wrote to the teacher of my children as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Frankford, 10th of Tenth month, 1727.
 
+[.salutation]
 Loving friend,
 
 Being about to embark for Barbados, I leave the charge of my little children to thy care,
@@ -252,10 +272,18 @@ I look on myself obliged to thee;
 therefore am so much the more free to impart my mind to thee, now on my departure; which,
 with real love, is from thy loving friend,
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+[.postscript]
+====
 
 P+++.+++ S. Although my care is great for my children`'s learning their books,
 yet it is much more so as to their learning true piety and virtue.
+
+====
+
+--
 
 On the 25th of the tenth month we set sail from Philadelphia in the sloop Dove,
 Oswald Peel, master; having taken a solemn farewell of my dear wife,
