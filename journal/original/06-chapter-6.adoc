@@ -55,8 +55,13 @@ were concerned to visit Friends in the island of Barbados,
 and they meeting with some discouragement, in Christian love,
 I wrote them the following letter to encourage them in the work of Christ.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Frankford, 1st of Twelfth month, 1724-5.
 
+[.salutation]
 My dear friends, Elizabeth Levis and Jane Fenn,
 
 Understanding by our friend, Grace Lloyd,
@@ -144,7 +149,10 @@ and blessed are all those, who, by their fearing to offend him,
 manifest him to be their Master, and by their honouring him,
 manifest him to be their Lord.
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+--
 
 In the twelfth month I went to the quarterly meeting of Friends, held at Providence,
 in Chester county, for discipline and worship.
@@ -163,8 +171,13 @@ About this time I had it in my mind to write to one who
 was conscientiously concerned to preach the gospel of Christ,
 but was under great exercise on that occasion.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Frankford, 24th of Twelfth month, 1724-5.
 
+[.salutation]
 My friend,
 
 Since I last saw thee and conversed with thee, thou hast often been in my mind,
@@ -300,7 +313,10 @@ and for strengthening each other in Christ.
 And as I fear lest I should exceed the bounds of a letter,
 therefore shall conclude thy real friend in Jesus Christ;
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+--
 
 The 25th of the twelfth month I was at the burial of the wife of Randal Speakman.
 It being our fifth-day meeting, divers sober people not of our persuasion, were there,
@@ -504,16 +520,25 @@ though ever so little in their own or other men`'s esteem,
 for we cannot have true peace in departing from the pure love of God, his truth,
 and people; to which I added the following sentences out of the New Testament:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ "`By this shall all men know that ye are my disciples,
 if ye have love one to another.`"
 Do not lose this mark.
 
+[.numbered]
 2+++.+++ "`We know that we have passed from death unto life, because we love the brethren.
 He that loveth not his brother, abideth in death.`"
 
+[.numbered]
 3+++.+++ "`He that loveth not, knoweth not God; for God is love.`"
 
+[.numbered]
 4+++.+++ "`He that dwelleth in love, dwelleth in God, and God in him.`"
+
+====
 
 About the latter end of the fourth month I was at a meeting at Abington,
 occasioned by a burial; and in the beginning of the fifth month,
@@ -619,6 +644,10 @@ that he was followed with the judgments of God for his manifold transgressions,
 desiring that I would pray for him.
 In answer to his letter, I wrote to the following effect.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Frankford, 7th of Sixth month, 1725.
 
 Thine from Burlington, of the 26th of fifth month, I received,
@@ -653,7 +682,10 @@ than any forms without it.
 That in the Lord`'s time thou mayest enjoy the reward of peace,
 is the desire of thy friend,
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+--
 
 The young man took this counsel well, and kept to meetings,
 and behaved soberly for a time, but afterwards ran out, kept bad company,
@@ -1178,8 +1210,13 @@ and been comforted in the many opportunities we had together,
 it came into my mind to visit them with an epistle at their quarterly meeting at Flushing,
 which was as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Frankford, Twelfth month, 1725.
 
+[.salutation]
 My dear and well beloved friends,
 
 Believing it might be acceptable to you to hear that I was got well to my habitation
@@ -1260,7 +1297,11 @@ and is light forever: to whom, with the Lamb of God,
 who takes away the sins of the world, I recommend you, my dear and well beloved friends,
 brethren and sisters in Christ, with my own soul.
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+[.postscript]
+====
 
 P+++.+++ S. Since my return I have been thankful to God for the many
 favourable visitations and good opportunities he was pleased to
@@ -1279,4 +1320,9 @@ about the prospect of a large gathering thereaway, if a house were built;
 to which Friends and well inclined people might come from Hempstead, Rocky-hill,
 Rockaway, Foster`'s meadow, etc.
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+====
+
+--

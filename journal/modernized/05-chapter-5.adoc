@@ -224,8 +224,8 @@ and myself and my daughter were dangerously sick, so that our recovery seemed do
 yet, through the mercy of God, we both recovered, for which I praise his name.
 
 After some stay at home, I was moved in the love of Christ,
-to visit the general meetings of Duck creek and Salem.
-At Duck creek we had a large and satisfactory meeting,
+to visit the general meetings of Duck Creek and Salem.
+At Duck Creek we had a large and satisfactory meeting,
 and I appointed one at George`'s creek, which was a good meeting.
 The next morning we went over to Elsinburgh, and so on to Cohansie,
 where I met with two of my fellow-labourers in the work of Christ,
@@ -312,8 +312,13 @@ for they shall be called the children of God.`"
 On the 10th of the fourth month, 1724,
 I had a concern to write the following epistle to Friends in the island of Barbados.
 
+[.embedded-content-document.epistle]
+--
+
+[.signed-section-context-open]
 Frankford, 10th of Fourth month, 1724.
 
+[.salutation]
 Dear Friends,
 
 In the tender love of God, our heavenly Father, and of our Saviour, Jesus Christ, do I,
@@ -385,7 +390,10 @@ to all of whom is my very dear love in Jesus Christ, whose servant I am,
 and hope to be to the end, and I am an entire lover of souls,
 and a well wisher of Zion`'s prosperity.
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+--
 
 On the 11th of the fourth month, I left home on a journey to Long island,
 in order to visit Friends`' meetings, and also to negotiate some business I had there.
@@ -497,12 +505,19 @@ On the 25th of the fifth month,
 I received a letter from a person in the county of Burlington, relating to water baptism,
 to which I made answer as follows:
 
+[.embedded-content-document.letter]
+--
+
 Your lines I received last night, in perusing of which,
 there was a Christian love in my heart towards you, though unknown by face,
 and I have much freedom of mind to answer yours, according to your request,
 and my small ability.
 
-First, then, we are near in sentiment to each other,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ then, we are near in sentiment to each other,
 in the grand Christian principle of saving religion,
 which is the work of the holy Spirit of Christ upon the soul,
 for that is the baptism which is Christ`'s, and is truly saving,
@@ -512,21 +527,24 @@ and with spiritual fire or water; John`'s being the element, or figure;
 and Christ`'s being the spirit, power, and divine substance,
 is to be with the church of Christ, and with his true ministers, to the end of the world.
 
-Secondly, in answer to your query.
+[.numbered]
+_Secondly,_ in answer to your query.
 Was not water baptism, that is, the element, commanded by Christ himself,
 in Matt. 28:19? I answer, I believe not.
 My reason is this, because the Holy Spirit, or spirit, is mentioned in the text,
 in express words, and water is not; and therefore we omit going into outward water,
 and for other reasons as follow:
 
-Thirdly, that water baptism, which was John`'s, was practised by the apostles, is true;
+[.numbered]
+_Thirdly,_ that water baptism, which was John`'s, was practised by the apostles, is true;
 but it was not practised by Christ, who, no doubt, would have done it,
 if it had been absolutely necessary; for he disdained not to wash his disciples feet,
 a much more despicable office, than that of the baptismal ceremony:
 so because Christ did not himself practise it, nor, as we conceive,
 commanded us to go into material water, we therefore, forbear it.
 
-Fourthly, that the apostles did baptize with water, we deny not;
+[.numbered]
+_Fourthly,_ that the apostles did baptize with water, we deny not;
 and that they were circumcised, and did circumcise, is also undeniable.
 Now, must we circumcise because the apostles did, and were themselves circumcised?
 Consider this carefully, and I hope that will give you some sight or light,
@@ -536,6 +554,8 @@ until it came, which was the substance, and was with spiritual fire, and spiritu
 and will continue anyone.
 To Christ and his baptism, I heartily direct you for further instruction,
 in whom is life, and that life is the light of men.
+
+====
 
 I would write a little further concerning water baptism, on some texts of Scripture,
 being Christ`'s own words: '`He that believes, and is baptized, shall be saved,
@@ -639,9 +659,13 @@ travelling souls to him; to whom with the Father, and the eternal spirit, be glo
 now and evermore.
 Amen.
 
+[.signed-section-closing]
 From your assured friend in Christ,
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+--
 
 The person to whom I wrote this letter, some time after informed me,
 that it gave him great satisfaction.
@@ -816,6 +840,10 @@ and many went home thankful to the holy name of God and Christ, that they were t
 I shall here transcribe part of a letter which my dear father wrote to me,
 when above eighty years of age, he having been a minister of Christ above forty years:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Loving son, Thomas Chalkley,
 
 Yours dated the 11th of the tenth month, 1723, I received,
@@ -838,17 +866,26 @@ in my little service for him.
 With repeated love to you all, I rest your aged, and thereby, through pain,
 afflicted father,
 
+[.signed-section-signature]
 George Chalkley.
 
+[.signed-section-context-close]
 Southwark, London, 5th of Sixth month, 1724.
+
+--
 
 To see my dear father`'s handwriting, now he was above four-score years of age,
 was very affecting to me; and the more, because I expected it might be his last,
 which it was.
 The answer I sent to my dear father`'s letter, is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Frankford, 22nd of Eighth month, 1724.
 
+[.salutation]
 My dear father,
 
 Yours, per James Wilkins, I received with joy,
@@ -868,6 +905,10 @@ in the glorious kingdom of God and his Christ.
 With unspeakable love from self and wife, to you, my dear and aged father,
 and all relations and friends,
 
+[.signed-section-closing]
 I remain your loving and dutiful son,
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+--
