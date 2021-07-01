@@ -45,9 +45,11 @@ One time in this dear child`'s sickness he said.
 Oh! the good hand of the Lord help me, give me ease, and conduct me safely, i. e.,
 to God`'s kingdom, uttering this verse:
 
+[verse]
+____
 Sweet Jesus give me ease, for mercy I do crave;
-
 And if thou`'lt give me ease, then mercy I shall have.
+____
 
 Although this was a great exercise and deep affliction to me,
 in losing this promising youth, and my only son;
@@ -667,16 +669,22 @@ at which were many young people; for whose sakes I was drawn,
 in my exercise of the ministry,
 to show the rise and design of our meetings of discipline.
 
-First, That the same power which gathered us to be a people,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ That the same power which gathered us to be a people,
 inclined our elders to establish those meetings,
 and settle them in most parts where we were gathered
 and had meetings for the worship of God.
 
-Second, They were advised to do the business of them, and speak to their affairs,
+[.numbered]
+_Second,_ They were advised to do the business of them, and speak to their affairs,
 in the sense of the same power, spirit, and wisdom of Christ, which, as it had raised us,
 would, as we kept to it, preserve us to be a people to the praise of God`'s holy name.
 
-Third, They were advised, in doing the business,
+[.numbered]
+_Third,_ They were advised, in doing the business,
 not to run out into many unnecessary words, which might lead to contention,
 and spending much time to little purpose;
 religious affairs being done best in a meek and quiet spirit,
@@ -685,7 +693,8 @@ through hot and long contentions about religion.
 It is also good to avoid, in matters of difference, respect of persons,
 on account of being acquainted or related, so as to be swayed thereby from justice.
 
-Fourth;
+[.numbered]
+_Fourth;_
 they were advised to be very careful of giving any just occasion of offence to any,
 to Jew or Gentile, to Indian or Negro; for, "`Woe to them,`" says our Saviour,
 "`by whom offences come;`" and if any will take offence when none is justly given,
@@ -694,7 +703,8 @@ who got the victory through suffering; a safe way, and glorious in the end.
 And as to few words, the apostle says, "`Let your words be few and savoury,
 seasoned with grace, that they may administer grace to the hearers.`"
 
-Fifth; I was engaged for the sake of the youth of both sexes,
+[.numbered]
+_Fifth;_ I was engaged for the sake of the youth of both sexes,
 to show them that a material part of the service of these meetings,
 is that care be taken therein,
 to see that persons are clear of prior engagements or entanglements,
@@ -707,6 +717,8 @@ without acknowledging their faults and promising amendment for the future,
 through divine grace and assistance.
 Also, in those meetings the widows and fatherless are taken care of,
 that they may be supported and visited, and youths put out apprentices to learn trades, etc.
+
+====
 
 This meeting concluded with supplication for the rising generation,
 and for the king and all his subjects,
