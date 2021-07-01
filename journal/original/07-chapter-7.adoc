@@ -246,8 +246,13 @@ that I hope we shall meet where we shall never part.
 Here follows a part of my affectionate brother`'s
 account of my father`'s death and burial.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Edmonton, 25th of the First month, 1726.
 
+[.salutation]
 Dear brother,
 
 This comes with the sorrowful account of our dear father`'s decease,
@@ -288,11 +293,14 @@ My wife said, '`Father, thou mayest live some years;`' but he replied,
 with dear love to thee, my sister, and thy dear children and our relations,
 I conclude with earnest desires for thy health and welfare,
 
+[.signed-section-closing]
 Thy affectionate brother,
 
+[.signed-section-signature]
 George Chalkley.
 
-An Account of My Father`'s Convincement, and of His Last Sickness and Dying Words.
+[.blurb]
+=== An Account of My Father`'s Convincement, and of His Last Sickness and Dying Words.
 
 My father was born of religious parents at Kempton, near Hitching, in Hertfordshire,
 the 1st of the ninth month, 1642; his father`'s name was Thomas Chalkley, by trade,
@@ -457,11 +465,17 @@ a good example to follow.
 He died like a lamb, in the eighty-fourth year of his age,
 the 7th day of the first month, 1725-6,
 
-George Chalkley,
+[.signed-section-signature]
+George Chalkley.
+
+--
 
 To which account I shall add the following short testimony
 concerning my dear and greatly beloved father,
 George Chalkley, viz:
+
+[.embedded-content-document.testimony]
+--
 
 I have a great deal in my heart, more than I can write concerning my dear father`'s life,
 it having been a remarkable life to me from my youth up.
@@ -492,7 +506,10 @@ in the many years I lived with him; but all was peace and love.
 He was very loving to his relations, and true to his friends,
 and a hearty well wisher and lover of his king and country.
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+--
 
 Our general meeting held at Frankford the 30th of fourth month, was large,
 our friend William Pigot, from London, being there,
@@ -611,7 +628,14 @@ and through a barren wilderness to Cape May, where we had one meeting,
 and returned home by way of Egg Harbour; travelling upwards of two hundred miles.
 At Cape May I was concerned to write a few lines concerning swearing, as follows:
 
-"`Christians ought not to swear in any case, for these reasons: First, because Christ,
+[.embedded-content-document]
+--
+
+[.numbered-group]
+====
+
+[.numbered]
+Christians ought not to swear in any case, for these reasons: _First,_ because Christ,
 their Lord, forbade it; unto whom the angels in heaven must be subject, and doubtless,
 so must mortal man, to whom he gave the precept.
 We must and ought to be subject to Christ, who is Lord of lords, and King of kings,
@@ -631,7 +655,8 @@ If we understand the word all, and what all signifies,
 then all and any swearing whatsoever, is not lawful for a Christian,
 according to Christ`'s law and command, which is positive to his followers.
 
-"`Second; James, the holy apostle of Christ, our lawgiver and our king, says,
+[.numbered]
+_Second;_ James, the holy apostle of Christ, our lawgiver and our king, says,
 '`Above all things, my brethren, swear not, neither by heaven, neither by the earth,
 neither by any other oath.`' Christ says,
 '`Swear not at all;`' and James his disciple and apostle, says,
@@ -639,25 +664,32 @@ neither by any other oath.`' Christ says,
 or is swearing at all, it is contrary to the express doctrine of Christ,
 and his apostle James, as is plain from the above cited texts.
 
-"`Third; the primitive Christians did not swear at all, in the first ages of Christianity.
+[.numbered]
+_Third;_ the primitive Christians did not swear at all, in the first ages of Christianity.
 Query, whether our modern swearing Christians are better than the primitive ones, who,
 for Christ and conscience sake, could not swear at all, even before a magistrate,
 though legally called?
 
-"`Fourth; many Christians have suffered death, because for conscience sake,
+[.numbered]
+_Fourth;_ many Christians have suffered death, because for conscience sake,
 they could not swear, and so break the command of Christ their Lord;
 and do not our modern Christians trample upon their testimony and sufferings?
 some of whom suffered death for not swearing before the heathen magistrates,
 and some were martyred by the Papists;
 judge then whether the persecuted or persecutors were in the right.
 
-"`Fifth; many of our worthy friends and forefathers, since the former,
+[.numbered]
+_Fifth;_ many of our worthy friends and forefathers, since the former,
 have suffered to death in jails, for not swearing,
 when required by persecuting Protestants, because for Christ`'s sake and sayings,
 as above, they could not swear at all:
 and this is a testimony which our Society hath constantly
 borne ever since we have been a people,
-for the reasons above, and more also, which, if there were occasion, might be given.`"
+for the reasons above, and more also, which, if there were occasion, might be given.
+
+====
+
+--
 
 The 23rd of the eighth month I was at the morning meeting at Philadelphia,
 on a first-day of the week, which was large,
