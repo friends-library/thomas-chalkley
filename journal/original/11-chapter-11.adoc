@@ -955,10 +955,12 @@ After meeting we returned by water from the Road Harbour to Fat Hog bay,
 where John Pickering lives, being upwards of twenty of us in company, in three cobles.
 These two weeks I spent in the island of Tortola, to my great satisfaction.
 
+[.offset]
 +++[+++The Journal of this worthy Friend ending here,
 the following supplement is collected from some notes sent by a Friend of that island,
 giving an account of his further services, sickness and death.]
 
+[.old-style]
 === The Supplement: / Giving an Account of His Further Services, Last Illness, and Death.
 
 On the second-day of the third week of his being among us,
