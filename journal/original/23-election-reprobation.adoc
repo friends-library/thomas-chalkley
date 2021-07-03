@@ -1,6 +1,6 @@
 == Concerning Personal Election and Reprobation.
 
-A CONCERN came upon me, in Christian love to the honest-hearted of the Presbyterian way,
+A concern came upon me, in Christian love to the honest-hearted of the Presbyterian way,
 to show them how their teachers have misled them, and misrepresented the words of God,
 in pretending to prove the doctrine they hold of personal election and reprobation,
 and in wresting the Scriptures in support of it.
@@ -110,7 +110,11 @@ and hatred of the children of Esau to the children of Israel,
 as is fully and clearly expressed by the prophets, David, Ezekiel, Amos, and Obadiah;
 and was written many ages after.
 
-Second; The next text under consideration is,
+[.numbered-group]
+====
+
+[.numbered]
+_Second;_ The next text under consideration is,
 "`That the Lord hardened the heart of Pharaoh.`"
 But it should be observed, he had first hardened himself against God and his people,
 and then God hardened him yet harder, in order to show his great power to mortals,
@@ -153,7 +157,8 @@ he was not predestinated to that obduration, but he hardened his own heart;
 and then it was, is, and always will be, just with God to suffer his,
 or any other man`'s heart to become hardened, and give them up to a reprobate mind.
 
-Third; The following Scripture is wrested, and falsely made use of, viz:
+[.numbered]
+_Third;_ The following Scripture is wrested, and falsely made use of, viz:
 "`He that made them, will not have mercy on them; and he that formed them,
 will show them no favour.`"
 This text hath, in some of the writings of those that espouse the aforesaid doctrine,
@@ -185,7 +190,8 @@ in his thirty-seventh chapter be considered, it will plainly appear,
 that he is so far from uttering an express or positive decree of their final destruction,
 that he clearly and fully foretells their recovery and restoration out of that state.
 
-Fourth; They argue from the words of the apostle,
+[.numbered]
+_Fourth;_ They argue from the words of the apostle,
 "`Hath not the potter power over the clay, to make of the same lump one vessel to honour,
 and another to dishonour?`"
 Yes, doubtless he hath; but the potter doth not make vessels with design to destroy them,
@@ -209,7 +215,8 @@ nor hath he ordained any to eternal damnation.
 Though he hath ordained damnation for wicked and ungodly men,
 yet he never ordained that men should be wicked and ungodly.
 
-Fifth; They urge the apostle`'s words, but to as little purpose as the former,
+[.numbered]
+_Fifth;_ They urge the apostle`'s words, but to as little purpose as the former,
 "`He will have mercy on whom he will have mercy, and whom he will he hardeneth.`"
 It is true, that God hath abundantly shown us, in the holy Scriptures,
 on whom he will have mercy, viz: He hath mercy on the poor in spirit;
@@ -229,6 +236,8 @@ should taste death for every man.`"
 And all who believe in, and obey him,
 will partake of the benefit of his death and suffering;
 "`But the wicked is snared in the work of his own hands.`"
+
+====
 
 It has been in my mind for some years,
 to show the weakness of some of what are called the proofs, for this, as I take it,
@@ -265,6 +274,7 @@ that I think it may be sufficient to convince every unprejudiced mind
 of the error of believing the absolute predestination by the Almighty,
 of any part of mankind to destruction.
 
+[.signed-section-signature]
 Thomas Chalkley.
 
 [.asterism]
