@@ -1,15 +1,24 @@
 == God`'s Great Love Unto Mankind, / Through Jesus Christ, Our Lord.
 
-"`And there came a voice out of the cloud, saying this (i. e. Christ) is my beloved Son,
-hear ye him.`" Luke 9:35.
+[quote.scripture, , Luke 9:35]
+____
+And there came a voice out of the cloud, saying this (i. e. Christ) is my beloved Son,
+hear ye him.
+____
 
-"`If ye love me, keep my commandments.`" John 14:16.
+[quote.scripture, , John 14:16]
+____
+If ye love me, keep my commandments.`" John 14:16.
+____
 
-"`For God so loved the world, that he gave his only begotten Son,
+[quote.scripture, , John 3:16]
+____
+For God so loved the world, that he gave his only begotten Son,
 that whosoever believed in him might not perish, but have everlasting life, John 3:16.
-`"
+____
 
-=== PREFACE.
+[.centered]
+=== Preface.
 
 In sincerity and unfeigned love, both to God and man, were these lines penned.
 I desire thee to peruse them in the same love, and then, peradventure,
@@ -28,9 +37,10 @@ may stir up true love in thee; first to God and Christ, and then to man:
 so thou wilt be fit to be espoused to him, who is altogether lovely, that is Christ,
 which is the desire of him who is thy friend, more in heart than word,
 
+[.signed-section-signature]
 Thomas Chalkley.
 
-I HAVE been concerned for the good and welfare of
+I have been concerned for the good and welfare of
 the children of men from my youthful days,
 and tasted of the infinite love of God, in and through his dear Son, the holy Lamb Jesus,
 who laid down his life for the sins of the world;
@@ -551,4 +561,5 @@ is the very desire of my soul: even so prayeth he,
 who through the spirit of Jesus Christ, and the ability of his grace,
 labours for the salvation of mankind;
 
+[.signed-section-signature]
 Thomas Chalkley,
