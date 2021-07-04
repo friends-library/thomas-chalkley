@@ -24,7 +24,11 @@ he ordaineth praise many times out of the mouths of babes and sucklings.
 Let the youth endeavour to follow those good and great men; and for their instruction,
 I shall say something of the above five worthies.
 
-First, in particular, beginning with Joseph, His father sent him to his brethren;
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ in particular, beginning with Joseph, His father sent him to his brethren;
 he went willingly, though his brethren hated him;
 and when it was in his power to hurt them, he rendered them good for their evil;
 a good example for both young and old.
@@ -32,7 +36,8 @@ And when tempted to sin by his mistress in Egypt, he said,
 "`How can I do this great wickedness, and sin against God?`"
 who highly favoured him for his piety, virtue and chastity.
 
-Secondly, Samuel, for whom his mother prayed earnestly to the Lord;
+[.numbered]
+_Secondly,_ Samuel, for whom his mother prayed earnestly to the Lord;
 and when he had given him to her, she gave him to God again:
 a good pattern for all mothers.
 When he was but a little lad, the Almighty called him, and he thought it had been Eli;
@@ -49,7 +54,8 @@ and sometimes in their beds.
 Oh! that our youth may do and say as little Samuel; that they may grow as he did,
 and be in favour both with God and man.
 
-Thirdly, David, his father`'s youngest son, kept his sheep,
+[.numbered]
+_Thirdly,_ David, his father`'s youngest son, kept his sheep,
 and in that innocent employ the Lord was with him.
 His father sent him to his brethren; but Eliab, his eldest brother, frowned upon him,
 and reviled him.
@@ -65,16 +71,20 @@ by the good that was in his, according to those holy expressions of the apostle 
 Words worthy to be written in letters of gold,
 and more worthy to be observed and practised.
 
-Fourthly, Solomon, who asked of God wisdom, being in his own eyes but as a little child,
+[.numbered]
+_Fourthly,_ Solomon, who asked of God wisdom, being in his own eyes but as a little child,
 said unto the Lord,
 "`Give unto thy servant an understanding heart:`" which request God granted him,
 and gave him also riches and honour.
 Oh! see the benefit of pleasing God, young men and young women.
 
-Fifthly, Josiah, a young prince and king.
+[.numbered]
+_Fifthly,_ Josiah, a young prince and king.
 How zealous was he for God`'s service and worship!
 What a wonderful reformation he made in the land, and how was he lamented at his death,
 as generally all good, and zealous men and women are, whether old or young.
+
+====
 
 Having touched a little upon the young men, let me remember the young women also:
 as for example, Ruth and Abigail, two discreet young women; the first very loving, kind,
@@ -145,4 +155,5 @@ unto which, with the grace of God in the heart, I recommend all young men and wo
 and conclude this small token of my very dear love in Christ, our holy Lord and master,
 desiring the above may be as so many patterns for them to follow.
 
+[.signed-section-signature]
 Thomas Chalkley.
