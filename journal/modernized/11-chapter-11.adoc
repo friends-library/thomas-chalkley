@@ -419,11 +419,20 @@ When in Virginia, I wrote to those of our Society at Opeckon, Shenandoah, etc.,
 many of whom went out of our province to settle in the government of Virginia;
 to the following effect.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To Friends of the Monthly Meeting at Opeckon.
 
+[.signed-section-context-open]
 Virginia, at John Cheagle`'s, 21st of Fifth mo., 1738.
 
+[.salutation]
 Dear Friends, who inhabit Shenandoah and Opeckon,
+
+[.numbered-group]
+====
 
 Having a concern for your welfare and prosperity, both now and hereafter,
 and also the prosperity of your children, I had a desire to see you;
@@ -431,14 +440,15 @@ but being in years and heavy,
 and much spent and fatigued with my long journeys in Virginia and Carolina,
 it seems too hard for me to perform a visit in person to you;
 therefore I take this way to discharge my mind of what lies weightily thereon: and,
-"`First; I desire that you be very careful, being far and back inhabitants,
+_First;_ I desire that you be very careful, being far and back inhabitants,
 to keep a friendly correspondence with the native Indians,
 giving them no occasion of offence; they being a cruel and merciless enemy,
 where they think they are wronged or defrauded of their right,
 as woeful experience has taught, in Carolina, Virginia and Maryland,
 and especially in New England, etc., and,
 
-Second;
+[.numbered]
+_Second;_
 As divine Providence has given them and their forefathers
 the possession of this continent of America,
 or this wilderness, they have a natural right thereto, in justice and equity;
@@ -448,7 +458,8 @@ ought to take away, or settle on other men`'s lands or rights, without consent,
 or purchasing the same, by agreement of parties concerned;
 which I suppose in your case is not yet done.
 
-Third; Therefore my counsel and Christian advice to you, is, my dear friends,
+[.numbered]
+_Third;_ Therefore my counsel and Christian advice to you, is, my dear friends,
 that the most reputable among you, do, with speed,
 endeavour to agree with and purchase your lands of the native Indians or inhabitants.
 Take example of our worthy and honourable late proprietor, William Penn;
@@ -458,14 +469,16 @@ and through his prudent management therein,
 has been instrumental to plant in peace one of the
 most flourishing provinces in the world.
 
-"`Fourth; Who would run the risk of the lives of their wives and children,
+[.numbered]
+_Fourth;_ Who would run the risk of the lives of their wives and children,
 for the sparing a little cost and pains?
 I am concerned to lay these things before you, under an uncommon exercise of mind,
 that your new and flourishing little settlement may not be laid waste,
 and if the providence of the Almighty does not intervene,
 some of the blood of yourselves, wives or children, be spilled on the ground.
 
-"`Fifth; Consider you are in the province of Virginia,
+[.numbered]
+_Fifth;_ Consider you are in the province of Virginia,
 holding what rights you have under that government;
 and the Virginians have made an agreement with the natives,
 to go as far as the mountains, but no further; and you are over and beyond the mountains,
@@ -476,7 +489,8 @@ and even now have destroyed more on the like occasion.
 The English going beyond the bounds of their agreement,
 eleven of them were killed by the Indians while we were travelling in Virginia.
 
-"`Sixth;
+[.numbered]
+_Sixth;_
 If you believe yourselves to be within the bounds
 of William Penn`'s patent from King Charles II.,
 which will be hard for you to prove, you being far to the southward of his line; yet,
@@ -485,20 +499,28 @@ except you will go about to convince them by fire and sword, contrary to our pri
 and if that were done, they would ever be implacable enemies,
 and the land could never be enjoyed in peace.
 
-"`Seventh; Please to note that in Pennsylvania no new settlements are made,
+[.numbered]
+_Seventh;_ Please to note that in Pennsylvania no new settlements are made,
 without an agreement with the natives; as witness Lancaster county, lately settled;
 though that is far within the grant of William Penn`'s patent from King Charles II.,
 therefore you lie open to insurrections of the northern as well as southern Indians.
 
-"`And lastly, thus having shown my good will to you and to your new settlement,
+[.numbered]
+And _lastly,_ thus having shown my good will to you and to your new settlement,
 that you might sit every one under your own shady tree, where none might make you afraid,
 and that you might prosper naturally and spiritually, you and your children;
 and having in some measure eased my mind of the weight and concern that lay upon me,
 I subscribe in the love of our holy Lord Jesus Christ,
 
+====
+
+[.signed-section-closing]
 Your real friend,
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+--
 
 After my return from this journey, I stayed much at home that winter,
 travelling being now hard for me, so that I could not perform long journeys as formerly,
@@ -650,25 +672,33 @@ which was solid and weighty;
 in which the mighty works of God and his wonderful
 power were set forth to the people in several respects.
 
-First; As to the work of the creation of the heavens and the earth,
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ As to the work of the creation of the heavens and the earth,
 and of man to govern in the earth, reserving to himself the government of man,
 to whom he gave a law, for the breach of which he was turned out of paradise,
 and brought death into the world.
 
-Second; Notwithstanding man`'s fall, God had love, mercy and compassion towards him,
+[.numbered]
+_Second;_ Notwithstanding man`'s fall, God had love, mercy and compassion towards him,
 and promised that the seed of the woman should bruise the head of the serpent,
 who led them astray; which seed is Christ, whom all are commanded to hear,
 believe and follow, in the practice of his holy doctrine,
 which is contained in his words spoken to his immediate disciples and apostles,
 and likewise made known and revealed in our hearts.
 
-Third; That now in our day his righteous judgments are abroad in the earth, as the sword,
+[.numbered]
+_Third;_ That now in our day his righteous judgments are abroad in the earth, as the sword,
 and a threatening of famine, or lack of bread:
 all which was spoken in the tender love and fear of God and faith of Christ,
 and all were entreated to lay these things to heart, and "`turn to the Lord,
 and he will have mercy; and to our God, and he will abundantly pardon.`"
 In this meeting God was glorified and his name magnified,
 through the assistance of the spirit of his dear Son, our Lord.
+
+====
 
 From Cohansey I went to Salem, and to David Davis`'s, where we had a meeting,
 at which were several people of various professions,
@@ -924,10 +954,12 @@ After meeting we returned by water from the Road Harbour to Fat Hog bay,
 where John Pickering lives, being upwards of twenty of us in company, in three cobles.
 These two weeks I spent in the island of Tortola, to my great satisfaction.
 
+[.offset]
 +++[+++The Journal of this worthy Friend ending here,
 the following supplement is collected from some notes sent by a Friend of that island,
 giving an account of his further services, sickness and death.]
 
+[.old-style]
 === The Supplement: / Giving an Account of His Further Services, Last Illness, and Death.
 
 On the second-day of the third week of his being among us,
