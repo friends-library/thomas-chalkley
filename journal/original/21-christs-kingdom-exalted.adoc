@@ -1,9 +1,12 @@
 == Christ`'s Kingdom Exalted;
 
+[.blurb]
 === Being a Short Essay in Order to Promote Truth and Righteousness in the Earth, and to Discourage Unholiness, Ungodliness, and Unbelief.
 
-=== PREFACE.
+[.centered]
+=== Preface.
 
+[.salutation]
 Christian reader,
 
 In order to promote and exalt the kingdom of the dear Son of God,
@@ -24,80 +27,115 @@ collected the following texts of holy Scripture,
 which maintain the doctrine of holiness and perfection;
 and directly oppose that evil principle, that we can never be free from sin in this life.
 
+[.offset]
 "`Walk before me, and be thou perfect.`"
 
+[.offset]
 "`Ye shall be holy, for I the Lord your God am holy.`"
 
+[.offset]
 "`And ye shall be holy men unto me.`"
 
+[.offset]
 "`Noah was a just man, and perfect in his generation.`"
 
+[.offset]
 "`Without holiness, no man shall see the Lord.`"
 
+[.offset]
 "`We should be holy, and without blame before him, in love.`"
 
+[.offset]
 "`To present you holy, unblamable, unreprovable, in his sight.`"
 
+[.offset]
 "`If any man defile the temple of God, him shall God destroy,
 for the temple of God is holy, which temple ye are.`"
 
+[.offset]
 "`So be ye holy in all manner of conversation, because it is written, be ye holy,
 for I am holy.`"
 
+[.offset]
 "`What manner of persons ought ye to be in all holy conversation and godliness.`"
 
+[.offset]
 "`Thou shalt be perfect with the Lord thy God.`"
 
+[.offset]
 "`The Lord said, Job was perfect and upright.`"
 
+[.offset]
 "`Be ye therefore perfect;`" the words of Christ.
 
+[.offset]
 "`I in them, and thou in me, that they may be made perfect in one.`"
 
+[.offset]
 "`Howbeit we speak wisdom among them who are perfect.`"
 
+[.offset]
 "`Finally, brethren, be perfect, be of one mind.`"
 
+[.offset]
 "`That we may present every man perfect in Christ Jesus:
 that ye may stand perfect and complete in all the will of God.`"
 
+[.offset]
 "`Now the God of peace, etc., make you perfect in every good work.`"
 
+[.offset]
 "`That ye may be perfect and entire, wanting nothing.`"
 
+[.offset]
 "`Having therefore these promises, dearly beloved,
 let us cleanse ourselves from all filthiness of flesh and spirit,
 perfecting holiness in the fear of God.`"
 
+[.offset]
 "`Unto a perfect man, unto the measure of the stature of the fulness of Christ.`"
 
+[.offset]
 "`This we wish, even your perfection.`"
 
+[.offset]
 "`Let us go on to perfection.`"
 
+[.offset]
 "`Be not overcome of evil, but overcome evil with good.`"
 
+[.offset]
 "`Ye have overcome the wicked one;`" (this is twice repeated in one chapter).
 
+[.offset]
 "`Ye are of God, and have overcome.`"
 
+[.offset]
 "`Whatsoever is born of God, overcometh the world,`" etc.
 
+[.offset]
 "`To him that overcometh, will I give to eat of the tree of life.`"
 
+[.offset]
 "`He that overcometh, shall not be hurt of the second death.`"
 
+[.offset]
 "`To him that overcometh, will I give to eat of the hidden manna.`"
 
+[.offset]
 "`To him that overcometh, will I give power over the nations.`"
 
+[.offset]
 "`He that overcometh, the same shall be clothed in white raiment.`"
 
+[.offset]
 "`Him that overcometh, will I make a pillar in the temple of my God,
 and he shall go no more out.`"
 
+[.offset]
 "`To him that overcometh, will I grant to sit with me in my throne.`"
 
+[.offset]
 "`He that overcometh, shall inherit all things.`"
 
 Consider then, courteous reader, I pray thee,
@@ -120,6 +158,7 @@ and thereby lead and guide the inhabitants of the earth;
 so that they may not give up the cause of Christ, but manfully resist, even to death,
 that at last they may have a crown of life.
 
+[.signed-section-signature]
 Thomas Chalkley.
 
 In the Christian world, it is too generally believed,
@@ -199,7 +238,11 @@ which he brings to support people in sin,
 and by which he makes them believe they can never live without it;
 some of which are as follows, viz:
 
-First, beginning with that saying of our Lord Jesus Christ, to a young man who asked him,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ beginning with that saying of our Lord Jesus Christ, to a young man who asked him,
 "`What good thing he should do to inherit eternal life,`" calling him good master.
 Our Saviour replies, "`Why callest thou me good, there is none who is good, but one,
 that is God.`"
@@ -215,7 +258,8 @@ and will be some such, to the end of the world.
 To construe Christ`'s words otherwise, would be to abuse the holy Scriptures,
 which Satan makes a common practice of doing.
 
-Second; Another is that expression of Solomon, "`There is no man that sinneth not.`"
+[.numbered]
+_Second;_ Another is that expression of Solomon, "`There is no man that sinneth not.`"
 The learned say this should be interpreted, and who may not sin.
 But though it may truly be said of men, in one part of their lives or other,
 or in the state of man in the fall, or degeneration, there is no man that sinneth not;
@@ -229,7 +273,8 @@ Satan would destroy, for he knows he shall have an enemy of every such soul,
 and therefore it is the devil`'s interest and endeavour to destroy every such birth,
 and the belief that Christians can live without sin in the world.
 
-Third; "`Who can say, I have made my heart clean, I am pure from sin.`"
+[.numbered]
+_Third;_ "`Who can say, I have made my heart clean, I am pure from sin.`"
 David prayed to the Almighty in his psalms; "`Create in me a clean heart,
 and renew a right, or pure spirit within me;`" which prayer was no doubt answered:
 but this is the work of God, and to him all things are possible,
@@ -253,7 +298,8 @@ where there is much room and company.
 May every true Christian say, the Lord forbid it, and I humbly pray, not only say,
 but do that which is right in the sight of God.
 
-Fourth; The next is an expression of Solomon`'s,
+[.numbered]
+_Fourth;_ The next is an expression of Solomon`'s,
 "`There is not a just man upon earth that doth good, and sinneth not.`"
 This should be interpreted as the former, and who may not sin:
 he speaketh of a man in the state of vanity and sin, before a reformation;
@@ -283,7 +329,8 @@ and then before they are aware, they may drop into eternal woe and misery,
 where the wicked and the ungodly must be turned, with all them that forget God;
 for in heaven, where Christ is, "`If we die in our sins, we cannot come.`"
 
-Fifth; The apostle John writes thus, "`If we say we have no sin, we deceive ourselves,
+[.numbered]
+_Fifth;_ The apostle John writes thus, "`If we say we have no sin, we deceive ourselves,
 and the truth is not in us.
 If we confess our sins, he is faithful and just to forgive us our sins,
 and to cleanse us from all unrighteousness.
@@ -314,6 +361,8 @@ Further, in the ninth and tenth verses, he again repeats to the same purpose, sa
 whosoever doeth not righteousness, is not of God.`"
 Ergo, then he must be of the devil, while he is in unrighteousness.
 
+====
+
 There are divers other places in the holy Scriptures, which he abuseth in like manner,
 and which he and his children wrest to uphold him and his kingdom of sin and unrighteousness,
 and themselves therein.
@@ -341,7 +390,11 @@ and resisting of sin and Satan, then it is hoped that Satan will be wounded,
 his kingdom shaken, and this evil and destructive principle, in some measure laid waste,
 in some poor souls, into whose hands these may come.
 
-First; Beginning with the great apostle of the gentiles,
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ Beginning with the great apostle of the gentiles,
 a notable soldier in the Lamb`'s spiritual war, "`I have,`" says he,
 "`fought a good fight, I have finished my course, I have kept the faith.
 Henceforth there is laid up for me a crown of righteousness, which the Lord,
@@ -351,7 +404,8 @@ And if this be not encouragement, what is?
 He also saith, "`Be ye followers of me, even as I also am of Christ.`"
 Here is example, exhortation and encouragement, with experience.
 
-Second; Another of the apostles, John, in his first epistle,
+[.numbered]
+_Second;_ Another of the apostles, John, in his first epistle,
 is positive that those young men he writes to, had already overcome the wicked one.
 "`I write unto you,`" says he, "`young men, because you have overcome the wicked one.`"
 And in the fourteenth verse he repeats it again,
@@ -381,7 +435,13 @@ It is true mortals are short in their duty, but not the Almighty in his holy pow
 nor his dear Son, in his unparalleled love, and most pure doctrine;
 whose doctrine shall be set down, as the Spirit indited it to the seven churches in Asia.
 
-First; To the church of Ephesus.
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ To the church of Ephesus.
 "`He that hath an ear to hear, let him hear what the Spirit saith to the churches:
 To him that overcometh, will I give to eat of the tree of life,
 which is in the midst of the paradise of God.`"
@@ -398,7 +458,8 @@ none in a state of sin and disobedience can come to enjoy the paradise of God.
 The above is an excellent promise to all those who overcome sin and the devil,
 who is the author of it.
 
-Secondly; To the church of Smyrna: "`He that hath an ear to hear,
+[.numbered]
+_Secondly;_ To the church of Smyrna: "`He that hath an ear to hear,
 let him hear what the Spirit saith to the churches:
 He that overcometh shall not be hurt of the second death:`"
 which is that eternal death which is in hell,
@@ -413,7 +474,8 @@ and not be hurt of the second death.
 Oh! may we know a dying daily to sin, to the world, the flesh and the devil,
 that we may live unto God, through faith in his dear Son Jesus Christ.
 
-Thirdly; To the church of Pergamos: "`He that hath an ear to hear,
+[.numbered]
+_Thirdly;_ To the church of Pergamos: "`He that hath an ear to hear,
 let him hear what the Spirit saith to the churches: To him that overcometh,
 will I give to eat of the hidden manna; and I will give a white stone,
 and in the stone a new name written, which no man knoweth, saving he that receiveth it.`"
@@ -424,7 +486,13 @@ who is not like the princes of this world,
 who sometimes promise great things to their soldiers or followers, and do not perform;
 but God`'s promises are all yea and amen forever.
 
-The first promise is,
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+The _first_ promise is,
 "`To eat of the hidden manna:`" the children of Israel did eat manna, outwardly,
 as it is written, in the wilderness, and are dead;
 but those who eat of this hidden manna, this angel`'s food,
@@ -432,7 +500,8 @@ who are hid with Christ in God, these shall never die, i. e., spiritually,
 for his hidden manna is the flesh and blood of the Son of God, who said,
 "`Except ye eat my flesh, and drink my blood, ye have no life in you.`"
 
-The second promise is, "`To have a white stone;`" this stone is Christ,
+[.numbered]
+The _second_ promise is, "`To have a white stone;`" this stone is Christ,
 who is the chief corner stone of God`'s building or church, the New Jerusalem,
 which the wise letter-learned master-builders set at naught;
 but he is the head of the saint`'s building or corner, and a holy precious stone,
@@ -444,7 +513,8 @@ through the virtue of its power, it will procure joy in tribulation,
 patience in afflictions, health in sickness, riches in poverty, strength in weakness,
 liberty in bonds, and to sum up all, which indeed is a great sum, life in death.
 
-Third promise,
+[.numbered]
+_Third_ promise,
 "`And in the stone a new name:`" how many gay sparks
 and beaus would do abundance to gain honour,
 or a name among men?
@@ -460,13 +530,16 @@ a knight, and as has been, and may be again, tomorrow on the scaffold:
 but this name which the King of kings, giveth those who overcome sin and Satan,
 is a name which will outlast time, and endure to eternity.
 
-Fourth promise is, that it should be secret, only to the world,
+[.numbered]
+_Fourth_ promise is, that it should be secret, only to the world,
 but surely known to him that hath it.
 Great men, when their acts and titles of honour are blazoned abroad in the world,
 have many enemies who envy them;
 and yet some are so vain as to love grandeur and popularity notwithstanding;
 but he that hath a name which Christ gives, so long as he is sensible of it in himself,
 is therewith satisfied.
+
+====
 
 Now as this is the portion, and more which is hereafter mentioned,
 of those who overcome the wicked one, then, on the contrary,
@@ -483,7 +556,11 @@ interest of any particular person or set of persons only;
 but are a general benefit unto all the faithful believers and followers of Christ,
 through the whole world.
 
-Fourthly; To the church at Thyatira: "`And he that overcometh,
+[.numbered-group]
+====
+
+[.numbered]
+_Fourthly;_ To the church at Thyatira: "`And he that overcometh,
 and keepeth my works unto the end, to him will I give power over the nations,
 and I will give him the morning star.
 He that hath an ear to hear, let him hear what the Spirit saith unto the churches.`"
@@ -520,7 +597,8 @@ Amen, holy Lord Jesus!
 As the day star is the forerunner of the natural day, so,
 is the heavenly morning star a forerunner of the day of the Most High to the soul.
 
-Fifthly; To the church of Sardis: "`He that overcometh shall be clothed in white raiment,
+[.numbered]
+_Fifthly;_ To the church of Sardis: "`He that overcometh shall be clothed in white raiment,
 and I will not blot his name out of the book of life;
 but I will confess him before my Father, and before his angels.
 He that hath an ear to hear, let him hear what the Spirit saith unto the churches.`"
@@ -562,7 +640,8 @@ But is not this belief of its being impossible to overcome sin, and saying,
 that we cannot do it while we are in this world; as much as to believe and say,
 that Satan and nature are stronger than grace.
 
-Sixthly: To the church at Philadelphia, the Spirit saith:
+[.numbered]
+_Sixthly:_ To the church at Philadelphia, the Spirit saith:
 "`Him that overcometh will I make a pillar in the temple of my God,
 and he shall go no more out: and I will write upon him the name of my God,
 and the name of the city of my God, etc.
@@ -605,7 +684,8 @@ is not the consequence of saying or believing that sin and Satan cannot be overc
 to make Christ a deceiver?
 which is absurd and antichristian doctrine.
 
-Seventhly; To the church of Laodicea:
+[.numbered]
+_Seventhly;_ To the church of Laodicea:
 "`To him that overcometh will I grant to sit with me in my throne,
 even as I also overcame and am set down with my Father in his throne.
 He that hath an ear to hear, let him hear what the Spirit saith unto the churches.`"
@@ -613,6 +693,8 @@ What greater promise could Christ make to his church than this,
 to take her into his throne, and into his Father`'s kingdom, into his bosom of love?
 This is wonderful indeed.
 But then, Oh, Christian! the condition is to overcome, as Christ overcame.
+
+====
 
 Now since it may be beneficial to Christians to understand, and to consider duly,
 this great fight or battle, and how this great conqueror overcame;
