@@ -1,8 +1,10 @@
 [short="Letter to the High Sheriff of Baltimore County"]
 == A Letter to Aquila Paca, High Sheriff of Baltimore County, in the Province of Maryland, and to Other Friends There.
 
+[.signed-section-context-open]
 Barbados, 1st of Twelfth month, 1718.
 
+[.salutation]
 Loving friend Aquila Paca,
 
 Meeting here with Captain Swaddle, bound for your river,

@@ -1,7 +1,8 @@
 [short="The Sad Effects of Intemperance"]
 == A Letter to a Friend in Ireland, Containing a Relation of Some Sorrowful Instances of the Sad Effects of Intemperance, as a Warning to Young People.
 
-=== PREFACE.
+[.centered]
+=== Preface.
 
 Temperate reader, The longer we live in the world,
 the more we see the danger and many mischiefs, miseries and inconveniences,
@@ -16,7 +17,11 @@ for the further service of poor mortals, I venture to put forth this tenth editi
 with this additional preface, in order, if possible,
 to persuade all rational souls to forsake so destructive and vile an evil.
 
-First; Then, in the aged it has these bad effects, namely,
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ Then, in the aged it has these bad effects, namely,
 they are bad examples to the youth, who when reproved, may reply,
 My father before me loved strong liquors, as well as I: he loved a glass of wine;
 he loved a bowl of punch; he loved good cider and good ale, and would be merry with it,
@@ -51,14 +56,22 @@ and at the same time their wives and children suffering and weeping at home?
 And some sober, modest women,
 would suffer unspeakable hardships before they would expose their husbands.
 
-Second; Concerning the youth, it mightily hurts them, as it does the aged also,
+[.numbered]
+_Second;_ Concerning the youth, it mightily hurts them, as it does the aged also,
 as to their religion, reputation, health and state, etc.
 
-First; As to their religion,
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ As to their religion,
 it not only clouds their understanding and darkens the nobility thereof,
 but it unfits them for all and every religious duty.
 
-Second; Some who value a good name, had rather lose their lives,
+[.numbered]
+_Second;_ Some who value a good name, had rather lose their lives,
 than lose their reputation through immoderate drinking.
 For if the youth be single, and addicted to immoderate drinking,
 no wise and virtuous person will tie themselves to them for life, by marriage;
@@ -67,7 +80,8 @@ is far exceeding in happiness all other company or conversation whatsoever.
 It is better to be one of these than to enjoy a kingdom: and on the other hand,
 it is better to be a slave, than to be married to an intemperate person.
 
-Third; Intemperance destroys the health of the body,
+[.numbered]
+_Third;_ Intemperance destroys the health of the body,
 which we generally esteem before wealth.
 And if a man were a king, prince, or duke, if he did not enjoy his health,
 what good would all his honour, power, and wealth, do him?
@@ -81,13 +95,16 @@ and an inlet to Atheism.
 Good people are afraid to live in such a country; bad people flock to it,
 and often make their exit in it.
 
-Fourth; And many a fair estate has been embezzled and spent through intemperance,
+[.numbered]
+_Fourth;_ And many a fair estate has been embezzled and spent through intemperance,
 which honest parents, with great labour, care and industry, have got together,
 and left to their sons and daughters, who have extravagantly spent it upon their lusts;
 and thereby have brought infamy on themselves, their fathers, and their posterity,
 whenever it has pleased God that they have left any behind them; besides,
 which is worst of all, dishonouring God,
 and bringing a scandal on the Christian religion.
+
+====
 
 Some of our wise kings and queens in Great Britain,
 being sorrowfully affected with the heinousness of this great sin,
@@ -104,14 +121,17 @@ by his mighty power, would be pleased to reform the unregenerate world.
 This is the prayer and fervent desire of an entire lover of mankind, both body and soul,
 and who desires their welfare in this, and in the world to come.
 
+[.signed-section-signature]
 Thomas Chalkley.
 
 [.asterism]
 '''
 
+[.signed-section-context-open]
 Barbados, 7th of First month, 1718-19.
 
-My dear friend.
+[.salutation]
+My dear friend,
 
 It is long since I had a line from you: but not long since I thought of you, and yours,
 with Friends of your nation; where I know that the Lord has a seed, who love him,
@@ -335,6 +355,7 @@ I saw her once since, and reminded her of her duty; which, she said,
 while she lived in this world:`" and that such examples may be a warning to all people,
 is the earnest desire of a lover of souls, and servant of Jesus.
 
+[.signed-section-signature]
 Thomas Chalkley.
 
 [.asterism]
