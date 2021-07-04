@@ -6,8 +6,10 @@ and having preached a sermon concerning the power and excellence of Christ withi
 recommending the people thereunto, and commending our Society therein;
 but differing from us in some particulars, which particulars I was concerned to answer.]
 
+[.signed-section-context-open]
 Frankford, 20th of Third month, 1726.
 
+[.salutation]
 Courteous friend, C. M.,
 
 Thine, dated November 30th, 1725, I received a few days ago,
@@ -46,20 +48,29 @@ And as to the ceremony of the hat, and the plural language to single persons,
 I thus answer thee, that many of us left that way of salutation and speaking,
 through strong conviction, accompanied with these reasons:
 
-First; It being a respect we pay to Almighty God, he being our head,
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ It being a respect we pay to Almighty God, he being our head,
 is honoured by uncovering our heads, as saith the apostle Paul; we think,
 for that reason, it is not right to uncover our heads to men,
 but that to give one another our hands, in an inward and hearty respect, is better.
 
-Second; We read in the holy Scriptures,
+[.numbered]
+_Second;_ We read in the holy Scriptures,
 that Mordecai could not bow to Haman for conscience sake,
 and I think it may be safely concluded, that he did not take off his hat,
 or uncover his head, though he was in danger of suffering for it.
 And,
-Third; The three children of God walked in the presence of the great king of Babylon,
+
+[.numbered]
+_Third;_ The three children of God walked in the presence of the great king of Babylon,
 and those present with him, with their hats on;
 and they stood the king`'s fury and the fire, though seven times hotter than usual,
 with their hats on.
+
+====
 
 I beseech thee, my good friend, to consider the tenor of the holy Scriptures maturely,
 and then I hope thou wilt not think the hat,
@@ -186,7 +197,11 @@ but take up his abode with us, and we with him, forever; and not only in us twai
 but in all those who truly love, believe in, and follow him, throughout the world;
 so wisheth and prayeth, in sincerity, thy real friend,
 
+[.signed-section-signature]
 Thomas Chalkley.
+
+[.postscript]
+====
 
 P+++.+++ S. I hope thou wilt excuse this long letter,
 thy "`Vital Christianity`" being instrumental towards
@@ -195,6 +210,8 @@ at which, if it proves any way to thy satisfaction, I shall rejoice.
 In reading several of thy latter tracts, I have had love in my heart towards thee,
 which was yet more renewed in perusing thy "`Vital
 Christianity,`" and thy friendly letter to me.
+
+====
 
 [.asterism]
 '''
