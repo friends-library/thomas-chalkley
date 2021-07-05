@@ -1,7 +1,7 @@
 [short="Tender Scruples About the Common Prayer"]
 == Some Truly Tender Scruples of Conscience, About that Form of Prayer, Called the Common Prayer, as Used by the Members of the Church of England.
 
-I AM not against reading the holy Scripture, either privately or openly,
+I am not against reading the holy Scripture, either privately or openly,
 but would encourage it in all Christians and true believers in Christ:
 and we ought to excite one another thereto,
 and more especially to put in practice what we read to be our duty;
@@ -38,17 +38,30 @@ whose glorious, eternal power, is above the power of sin, death, and the devil.
 I wish to write a few words concerning some unsound words,
 and also some Scripture expressions perverted to a wrong use, in the common prayer.
 
-First; As to that expression in the common prayer, that "`We are miserable sinners.`"
+[.numbered-group]
+====
 
-Second; And that "`We are full of bruises and putrifying sores.`"
+[.numbered]
+_First;_ As to that expression in the common prayer, that "`We are miserable sinners.`"
 
-Third; And "`From the crown of the head to the sole of the foot,
+[.numbered]
+_Second;_ And that "`We are full of bruises and putrifying sores.`"
+
+[.numbered]
+_Third;_ And "`From the crown of the head to the sole of the foot,
 there is no soundness in us.`"
 
-Fourth; And that "`We have left undone the things which we ought to do,
+[.numbered]
+_Fourth;_ And that "`We have left undone the things which we ought to do,
 and do those things which we ought not to do;`" and these to be repeated for life.
 
-First, then.
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ then.
 If people must be miserable sinners all their days,
 to what end did Christ come into the world and preach the gospel, and suffer death,
 the painful death of the cross?
@@ -81,7 +94,8 @@ accompanied with true repentance and amendment of life,
 the imputation of our former sins is taken away;
 for this cause we praise God and adore his eternal majesty forever,
 
-Second; As to the word "`miserable,`" a Christian may indeed be poor;
+[.numbered]
+_Second;_ As to the word "`miserable,`" a Christian may indeed be poor;
 but since Christ is come to make us happy and comfortable,
 through the hope of eternal salvation, in his name and power,
 as we are not to think ourselves better than we are,
@@ -101,7 +115,8 @@ destroying the very nature of Christianity: wherefore some tender conscientious 
 cannot join with such miserable sinners and sayers,
 who neither say nor do that which they ought.
 
-Third; As to these sayings, "`We are full of bruises and putrifying sores,
+[.numbered]
+_Third;_ As to these sayings, "`We are full of bruises and putrifying sores,
 from the crown of the head to the sole of the foot, and there is no soundness in us.`"
 
 If a congregation of such people as these say truly, and if they do not say truly,
@@ -134,7 +149,8 @@ They were cleansed by putting his word in practice; for, saith Christ,
 I will liken him to a wise man;`" so consequently, he that doeth them not, is foolish,
 sinful, and unclean.
 
-Fourth; And further, say they,
+[.numbered]
+_Fourth;_ And further, say they,
 "`We have left undone those things which we ought to have done.`"
 Doing the truth and that which is right, is what we ought to do; and committing sin,
 is that which we ought not to do: certainly any man would think it mockery,
@@ -163,13 +179,16 @@ Oh! what would become of poor, degenerate man,
 if the Lord Almighty were not very indulgent, if he were not a God gracious and merciful,
 slow to anger, and of great lovingkindness to poor mortals!
 
-Fifth; And as to their singing David`'s psalms in metre;
+[.numbered]
+_Fifth;_ And as to their singing David`'s psalms in metre;
 how often do they sing that which is not true as to themselves,
 and also that which is not according,
 but contrary to their states and conditions`'? As when they sing,
 "`That they water their couch with their tears,`" and that "`they practise what
 they know;`" when they confess they "`Do that which they ought not to do,
 and leave undone that which they ought to do.`"
+
+====
 
 The apostle said he would "`Sing with the spirit, and with the understanding also.`"
 And again, "`We know not what we should pray for as we ought,
@@ -189,10 +208,12 @@ that the Scriptures vindicate them in their form, which, how well they do so,
 let it be freely and fairly examined, not for contention,
 but for edification in the pure love of Jesus.
 
-First: "`The Scripture saith,
+[.discourse-part]
+_First:_ "`The Scripture saith,
 that there was a people that was full of bruises and putrefying sores,`" etc.
 
-Answer: But that was in the time of the law, when the people had transgressed the law,
+[.discourse-part]
+_Answer:_ But that was in the time of the law, when the people had transgressed the law,
 and were under the law; for had they done their duty, and kept the law,
 they could not truly have said so.
 They were then indeed gone astray like the lost sheep,
@@ -207,9 +228,11 @@ so that a true Christian cannot say truly, with the false and rebellious Jews,
 of whom the prophet there speaks, "`That he is full of putrefying sores,
 and that there is no soundness in him, and say it all the days of his life.`"
 
-Second: Again the Scripture saith, "`I was shapen in iniquity,
+[.discourse-part]
+_Second:_ Again the Scripture saith, "`I was shapen in iniquity,
 and in sin did my mother conceive me.`"
 
+[.discourse-part]
 Answer:
 The psalmist was at that time under deep convictions for
 the sins he had been guilty of in the matter of Uriah;
@@ -225,8 +248,10 @@ as saith the apostle; "`If we walk in the light, as he is in the light,
 then have we fellowship one with another, and the blood of Jesus Christ, his Son,
 cleanseth us from all sin.`"
 
-Third: "`There is none that doth good, no not one.`"
+[.discourse-part]
+_Third:_ "`There is none that doth good, no not one.`"
 
+[.discourse-part]
 Answer:
 It is beyond all doubt the apostle spoke of the people in their unconverted state;
 for if they had been come to the work of conversion and regeneration, they must,
@@ -237,13 +262,15 @@ and not of believers: especially since Christ has brought a covenant of grace,
 in order to teach and help us to live righteous, virtuous, holy, religious,
 and sober lives and conversations.
 
-Fourth: They object the words of our Saviour to the young man in the gospel,
+[.discourse-part]
+_Fourth:_ They object the words of our Saviour to the young man in the gospel,
 where he calls Christ good master, asking him,
 "`What good thing shall I do that I may have eternal life?`"
 Christ answered, "`Why callest thou me good?
 There is none good but one, that is God.`"
 
-Answer: And true it is, in our Lord`'s sense, for comparing men to Christ, who is God,
+[.discourse-part]
+_Answer:_ And true it is, in our Lord`'s sense, for comparing men to Christ, who is God,
 there is none good; the young man thought he had been speaking to a man like himself,
 and knew not that he was speaking to the good and gracious Son of the most high God.
 But if we compare men with men, it must be granted that there is some good men,
@@ -263,9 +290,11 @@ and to cleanse us from all unrighteousness:`" where then is the sin,
 when God has cleansed us from all unrighteousness?
 Indeed it is very meet, and our duty to confess our sins; they truly say, that,
 
-Fifth: "`The Scripture in sundry places excites us to confess our sins.`"
+[.discourse-part]
+_Fifth:_ "`The Scripture in sundry places excites us to confess our sins.`"
 
-Answer: For poor mortals have all sinned, and by this sinful nature,
+[.discourse-part]
+_Answer:_ For poor mortals have all sinned, and by this sinful nature,
 we are all children of wrath,
 and this is a strong and mighty motive for us in truth to confess our sins,
 because God is so just and merciful to forgive and pass by our iniquities;
@@ -305,11 +334,13 @@ Let us also remember that the holy Scripture doth abundantly
 require and command us to forsake our sins;
 the text says, "`He that confesseth and forsaketh his sins, shall have mercy.`"
 
-Sixth: And whereas the apostle John, in his first general epistle, writes,
+[.discourse-part]
+_Sixth:_ And whereas the apostle John, in his first general epistle, writes,
 "`If we say we have no sin, we deceive ourselves;`" from whence it is objected,
 we ought always to confess our sins.
 
-Answer: Yes, we should do so whenever we commit any, or knowingly do evil;
+[.discourse-part]
+_Answer:_ Yes, we should do so whenever we commit any, or knowingly do evil;
 but when the Almighty hath cleansed us from all unrighteousness,
 then our sins are done away by the grace of his Son, our Lord Jesus Christ,
 and we are washed by regeneration;

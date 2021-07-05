@@ -1,7 +1,8 @@
 [short="Observations on Christ`'s Sermon on the Mount"]
 == Some Observations on Christ`'s Sermon on the Mount.
 
-=== PREFACE.
+[.centered]
+=== Preface.
 
 Christ being the great author of the Christian religion,
 some observations on the sermon which he preached on the mount,
@@ -62,10 +63,12 @@ as I found openness to it on my mind;
 and it is recommended to the serious perusal and consideration of all
 those who tenderly and unfeignedly love our Lord Jesus Christ.
 
+[.signed-section-signature]
 Thomas Chalkley.
 
-"`And seeing the multitudes, he went up into a mountain: and when he was set,
-his disciples came unto him, and he opened his mouth, and taught them, saying,`" etc.
+[.offset]
+_"`And seeing the multitudes, he went up into a mountain: and when he was set,
+his disciples came unto him, and he opened his mouth, and taught them, saying,`" etc._
 
 Our Lord seeing the multitudes, for the advancing his Father`'s glory, his own kingdom,
 and the good of souls, went up into the mountain, and sat in the power of the Father;
@@ -99,7 +102,8 @@ manifested to poor souls when they,
 with love and zeal to him, and for the honour of his great name, assemble before him.
 He begins and says,
 
-"`Blessed are the poor in spirit, for theirs is the kingdom of heaven,`"
+[.offset]
+_"`Blessed are the poor in spirit, for theirs is the kingdom of heaven,`"_
 
 It is a safe and blessed state, to be spiritually poor,
 and to be rightly sensible of it before the Most High, For then we are nothing,
@@ -132,7 +136,8 @@ a thorough change being wrought both within and without also;
 "`The holy Spirit bearing witness with their spirits,
 that they are the children of God;`" and Christ says theirs is the kingdom of heaven.
 
-"`Blessed are they that mourn: for they shall be comforted.`"
+[.offset]
+_"`Blessed are they that mourn: for they shall be comforted.`"_
 
 The mourning here spoken of, is of a godly sort, which may sometimes appear outwardly.
 First, The soul may mourn for its own sins and iniquities.
@@ -192,7 +197,8 @@ and the garment of praise for the spirit of heaviness;
 that they might be called trees of righteousness, the planting of the Lord,
 that he might be glorified.`"
 
-"`Blessed are the meek: for they shall inherit the earth.`"
+[.offset]
+_"`Blessed are the meek: for they shall inherit the earth.`"_
 
 Be not high-minded, saith one of his servants; and another saith,
 God resisteth the proud, but giveth grace to the humble.
@@ -210,7 +216,8 @@ whereas the proud and scornful are a burden to themselves and others,
 and hardly any thing pleases them, or is good enough for them; when, on the other hand,
 the meek and contented mind hath a continual feast.
 
-"`Blessed are they who hunger and thirst after righteousness; for they shall be filled.`"
+[.offset]
+_"`Blessed are they who hunger and thirst after righteousness; for they shall be filled.`"_
 
 Let it be remembered, that as our mortal bodies cannot enjoy health long,
 without a natural appetite to meat and drink,
@@ -250,7 +257,8 @@ as many of his servants and children have experienced.
 Wherefore, to be hungry and thirsty after Christ and his righteousness,
 entitles us to his gracious promise, who says they shall be filled.
 
-"`Blessed are the merciful, for they shall obtain mercy.`"
+[.offset]
+_"`Blessed are the merciful, for they shall obtain mercy.`"_
 
 It is highly necessary for mortals to show mercy
 in all their words and actions one to another;
@@ -276,7 +284,8 @@ but mercy must be mixed with justice, else the correction may end in tyranny.
 We ought to be gentle to all men, which is a token of true gentility;
 so to be truly merciful, is to be blessed, and to obtain mercy.
 
-"`Blessed are the pure in heart, for they shall see God.`"
+[.offset]
+_"`Blessed are the pure in heart, for they shall see God.`"_
 
 By which we may understand, that we are to take care of our hearts,
 and to keep a strict watch over them; and not admit unclean or unchaste thoughts,
@@ -300,7 +309,8 @@ The beginning of the work of purity and sanctity, must be within;
 and being innocent and pure in heart, we shall then see the glory of the Father,
 the lovely beauty of the Son, and the power of the Holy Ghost, or Spirit.
 
-"`Blessed are the peace makers, for they shall be called the children of God.`"
+[.offset]
+_"`Blessed are the peace makers, for they shall be called the children of God.`"_
 
 This peacemaking is excellent work, and a blessed calling; what pity it is,
 that there are not workmen in the world who would set themselves heartily to it,
@@ -329,8 +339,9 @@ and as these peace makers are to be called the children of God,
 they who are truly concerned herein, are not only so called,
 but are so in deed and in truth.
 
-"`Blessed are they who are persecuted for righteousness sake;
-for theirs is the kingdom of heaven.`"
+[.offset]
+_"`Blessed are they who are persecuted for righteousness sake;
+for theirs is the kingdom of heaven.`"_
 
 Persecution may be considered in relation to calumny and reproach, and in imprisonments,
 confinements, or the like, or taking away life or goods on a religious account,
@@ -373,11 +384,11 @@ the immaculate Lamb; who came not to destroy, or devour,
 but to seek and to save that which was lost and gone astray,
 that he might bring them home to his fold of rest, in his Father`'s kingdom.
 
-"`Blessed are ye when men shall revile you and persecute you,
+[.offset]
+_"`Blessed are ye when men shall revile you and persecute you,
 and say all manner of evil against you falsely for my sake.
-
-"`Rejoice and be exceeding glad: for great is your reward in heaven;
-for so persecuted they the prophets, who were before you.`"
+Rejoice and be exceeding glad: for great is your reward in heaven;
+for so persecuted they the prophets, who were before you.`"_
 
 There is a persecution as before hinted, by calumny and reproach, or reviling,
 by evil speaking and falsities, which, for the most part,
@@ -399,10 +410,11 @@ and with that consideration Christ comforts his suffering seed:
 Those who suffer with him and his seed, these have the promise of reigning with him;
 and himself hath promised them a reward, no less than the kingdom of heaven.
 
-"`Ye are the salt of the earth: but if the salt hath lost its savour,
+[.offset]
+_"`Ye are the salt of the earth: but if the salt hath lost its savour,
 wherewith shall it be salted?
 it is thenceforth good for nothing, but to be cast out,
-and to be trodden under foot by men.`"
+and to be trodden under foot by men.`"_
 
 Here Christ showeth that his followers must season the earth, by living a savoury life,
 and by walking according to his doctrine,
@@ -429,7 +441,8 @@ and adviseth his church to do the same, saying, "`If he repent,
 forgive him;`" which repentance is best manifested
 by a new life and a holy and blameless conversation.
 
-"`Ye are the light of the world: a city set on a hill cannot be hid.`"
+[.offset]
+_"`Ye are the light of the world: a city set on a hill cannot be hid.`"_
 
 True and faithful Christians are indeed as stars in God`'s firmament,
 which are of excellent use to people in the night,
@@ -444,8 +457,9 @@ and good men and good women are serviceable, to reprove and instruct in righteou
 and as the stars, forever and ever.`"
 And these are like a city set upon a hill, which cannot be hid.
 
-"`Neither do men light a candle, and set it under a bushel; but on a candlestick,
-and it giveth light to all that are in the house.`"
+[.offset]
+_"`Neither do men light a candle, and set it under a bushel; but on a candlestick,
+and it giveth light to all that are in the house.`"_
 
 Men, when divinely enlightened by the grace and spirit of Christ,
 ought to exert themselves to their Master`'s glory and excite others,
@@ -473,8 +487,9 @@ therefore we ought to be very careful to keep to watchfulness and prayer,
 that it be kept lighted in time of darkness;
 for "`The candle of the wicked is often put out.`"
 
-"`Let your light so shine before men, that they may see your good works,
-and glorify your Father which is in heaven.`"
+[.offset]
+_"`Let your light so shine before men, that they may see your good works,
+and glorify your Father which is in heaven.`"_
 
 Since there is a bright and shining nature and quality
 in the holy lives of Christ`'s servants,
@@ -492,20 +507,21 @@ will sooner see them, than our good ones; so that we had need to be very careful
 and keep a holy watch in our conversations, that our light may so shine,
 that our Father who is in heaven may be glorified, in our bringing forth much good fruit.
 
-"`Think not that I am come to destroy the law or the prophets: I am not come to destroy,
+[.offset]
+_"`Think not that I am come to destroy the law or the prophets: I am not come to destroy,
 but to fulfill.
-
-"`For verily I say unto you, till heaven and earth pass, one jot,
-or one tittle shall in no wise pass from the law, till all be fulfilled.`"
+For verily I say unto you, till heaven and earth pass, one jot,
+or one tittle shall in no wise pass from the law, till all be fulfilled.`"_
 
 The excellency of the dispensation of the glorious gospel of Jesus Christ,
 is wonderful! having no tendency to destroy the law of God given by Moses;
 for Christ`'s doctrine comes up through it, fulfils it, and goes beyond it,
 in perfection and in the beauty of holiness, and in the life and power of pure religion,
 
-"`For I say unto you,
+[.offset]
+_"`For I say unto you,
 except your righteousness shall exceed that of the scribes and pharisees,
-ye shall in no case enter the kingdom of heaven.`"
+ye shall in no case enter the kingdom of heaven.`"_
 
 Those scribes and pharisees had a righteousness, but it was one of their own making,
 an outside one only; whereas, within they were full of deceit and hypocrisy;
@@ -523,13 +539,13 @@ and therefore he tells them that hear him,
 that their "`Righteousness must exceed that of the scribes and pharisees,
 or they in no case shall enter the kingdom of heaven.`"
 
-"`Ye have heard that it was said by them of old time.
+[.offset]
+_"`Ye have heard that it was said by them of old time.
 Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment.
-
-"`But I say unto you, that whosoever is angry with his brother without a cause,
+But I say unto you, that whosoever is angry with his brother without a cause,
 shall be in danger of the judgment; and whosoever shall say to his brother, Raca,
 shall be in danger of the council; but whosoever shall say, Thou fool,
-shall be in danger of hell fire.`"
+shall be in danger of hell fire.`"_
 
 Here we may learn that the law provided nothing against anger, only in this case,
 against shedding of blood,
@@ -547,11 +563,11 @@ and then we make work for repentance, without which we are in danger of hell fir
 Wherefore every true Christian ought to watch against the evil of anger;
 and yet there may be anger where there is real cause, without sin.
 
-"`Therefore if thou bring thy gift to the altar,
+[.offset]
+_"`Therefore if thou bring thy gift to the altar,
 and there rememberest that thy brother hath aught against thee;
-
-"`Leave there thy gift before the altar, and go thy way;
-first be reconciled to thy brother, and then come and offer thy gift.`"
+Leave there thy gift before the altar, and go thy way;
+first be reconciled to thy brother, and then come and offer thy gift.`"_
 
 The Christian religion admits of no malice or guile;
 the worship of it is in spirit and truth, and love, without hypocrisy,
@@ -566,12 +582,12 @@ and Christ will manifest himself to thee by his grace and spirit.
 But yet art thou to seek for peace, he having ordained it,
 and laid it as a duty incumbent on thee.
 
-"`Agree with thine adversary quickly, whiles thou art in the way with him;
+[.offset]
+_"`Agree with thine adversary quickly, whiles thou art in the way with him;
 lest at any time the adversary deliver thee to the judge,
 and the judge deliver thee to the officer, and thou be cast into prison.
-
-"`Verily I say unto thee, thou shalt by no means come out thence,
-till thou hast paid the uttermost farthing.`"
+Verily I say unto thee, thou shalt by no means come out thence,
+till thou hast paid the uttermost farthing.`"_
 
 It is plain from hence, that Jesus is for a quick and speedy end to differences;
 "`Agree with him quickly;`" for it is of dangerous
@@ -588,11 +604,11 @@ and oftentimes the gainer of the cause loses by going to law;
 so that it is good to agree quickly; it being profitable so to do,
 both spiritually and naturally.
 
-"`Ye have heard that it was said by them of old time.
+[.offset]
+_"`Ye have heard that it was said by them of old time.
 Thou shalt not commit adultery.
-
-"`But I say unto you, whosoever looketh on a woman to lust after her,
-hath committed adultery with her already in his heart.`"
+But I say unto you, whosoever looketh on a woman to lust after her,
+hath committed adultery with her already in his heart.`"_
 
 The law was against adultery; but the gospel is against lust; and where there is no lust,
 there can be no adultery; for then the occasion of adultery is taken away;
@@ -604,13 +620,13 @@ much less of immodest salutations, touches, embraces, or discourses,
 which all tend to beget lust in the hearts of men; and lust conceived, brings forth sin;
 and sin when finished, brings forth death to the soul.
 
-"`And if thy right eye offend thee, pluck it out, and cast it from thee;
+[.offset]
+_"`And if thy right eye offend thee, pluck it out, and cast it from thee;
 for it is profitable for thee that one of thy members should perish,
 and not that thy whole body should be cast into hell.
-
-"`And if thy right hand offend thee, cut it off, and cast it from thee;
+And if thy right hand offend thee, cut it off, and cast it from thee;
 for it is profitable for thee that one of thy members should perish,
-and not that thy whole body should be cast into hell.`"
+and not that thy whole body should be cast into hell.`"_
 
 Christ compares the sinful lusts and inclinations,
 which are the cause of men`'s destruction, and their being cast into hell,
@@ -630,19 +646,16 @@ and being sensible of the powerful working of Christ`'s word and spirit, says,
 "`Now also the axe is laid to the root of the trees, every tree therefore,
 which bringeth not forth good fruit, is hewn down and cast into the fire.`"
 
-"`Again ye have heard, that it hath been said by them of old time,
+[.offset]
+_"`Again ye have heard, that it hath been said by them of old time,
 thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths.
-
-"`But I say unto you, swear not at all, neither by heaven, for it is God`'s throne:
-
-"`Nor by the earth, for it is his footstool: neither by Jerusalem,
+But I say unto you, swear not at all, neither by heaven, for it is God`'s throne:
+Nor by the earth, for it is his footstool: neither by Jerusalem,
 for it is the city of the great king.
-
-"`Neither shalt thou swear by thy head,
+Neither shalt thou swear by thy head,
 because thou canst not make one hair white or black.
-
-"`But let your communication be yea, yea; nay, nay; for whatsoever is more than these,
-Cometh of evil.`"
+But let your communication be yea, yea; nay, nay; for whatsoever is more than these,
+Cometh of evil.`"_
 
 It was allowed to the Jews to vow to the Lord, and swear by his name,
 provided they performed their vows and oaths.
@@ -659,13 +672,12 @@ If more than yea, yea, and nay, nay, be evil, it must also be evil to require mo
 and that it is evil if it be more, as all vows and oaths are,
 we have Christ for our author, a good foundation to build upon.
 
-"`Ye have heard that it hath been said, an eye for an eye, and a tooth for a tooth.
-
-"`But I say unto you, that ye resist not evil:
+[.offset]
+_"`Ye have heard that it hath been said, an eye for an eye, and a tooth for a tooth.
+But I say unto you, that ye resist not evil:
 but whosoever shall smite thee on thy right cheek, turn to him the other also.
-
-"`And if any man will sue thee at the law, and take away thy coat,
-let him have thy cloak also.`"
+And if any man will sue thee at the law, and take away thy coat,
+let him have thy cloak also.`"_
 
 There was liberty by the law of Moses, for a man to revenge himself,
 if he had an injury done to him; but Christ teacheth patient suffering;
@@ -681,8 +693,9 @@ than stand another trial with him: and it is much if thou art not a gainer by so
 But the gain is not urged as the motive; but obedience to Christ,
 our great Lord and good Master; who said, "`If ye love me, keep my commandments.`"
 
-"`Give to him that asketh thee, and from him that would borrow of thee,
-turn not thou away.`"
+[.offset]
+_"`Give to him that asketh thee, and from him that would borrow of thee,
+turn not thou away.`"_
 
 We are here to suppose the asker to be in real want and necessity,
 and the borrower also to stand in need,
@@ -696,16 +709,15 @@ And if we think the askers or borrowers are not worthy or deserving for their ow
 we should, if need be, give and lend for Christ`'s sake, and in obedience to him,
 though it cross our own inclinations.
 
-"`Ye have heard that it hath been said, thou shalt love thy neighbour,
+[.offset]
+_"`Ye have heard that it hath been said, thou shalt love thy neighbour,
 and hate thine enemy.
-
-"`But I say unto you, love your enemies, bless them that curse you,
+But I say unto you, love your enemies, bless them that curse you,
 do good to them that hate you, and pray for them who despitefully use you,
 and persecute you.
-
-"`That ye may be the children of your Father who is in heaven,
+That ye may be the children of your Father who is in heaven,
 for he maketh his sun to rise upon the evil, and on the good,
-and sendeth rain on the just, and on the unjust.`"
+and sendeth rain on the just, and on the unjust.`"_
 
 The Hebrews had liberty to hate their enemies, but no people, by any dispensation,
 had liberty to hate their neighbours or friends; so that those who are in that state,
@@ -730,10 +742,11 @@ as Christ hath taught, then are we the children of our heavenly Father,
 "`Who maketh his sun to rise on the evil, and on the good, and sendeth rain on the just,
 and on the unjust.`"
 
-"`For if ye love them who love you, what reward have ye?
+[.offset]
+_"`For if ye love them who love you, what reward have ye?
 do not even the publicans the same?
 And if ye salute your brethren only, what do you more than others?
-do not even the publicans so?`"
+do not even the publicans so?`"_
 
 Our virtue is much more shining in loving those who do not love us,
 than in loving those who do.
@@ -755,7 +768,8 @@ more than to them of low degree.
 As we are not to refuse our friendly salutations to the great, or the rich,
 so we are not to neglect the poor, for the publicans do so.
 
-"`Be ye therefore perfect, even as your Father which is in heaven is perfect.`"
+[.offset]
+_"`Be ye therefore perfect, even as your Father which is in heaven is perfect.`"_
 
 Christ would have us to be perfect in the practice of his doctrine,
 and to live up to it in perfect obedience,
@@ -779,16 +793,15 @@ but according to our measure, gift, and degree of grace received,
 we are to be holy and perfect, as God, our heavenly Father, and Christ, our dear Lord,
 are so in fulness.
 
-"`Take heed that ye do not your alms before men, to be seen of them,
+[.offset]
+_"`Take heed that ye do not your alms before men, to be seen of them,
 otherwise ye have no reward of your Father which is in heaven.
-
-"`Therefore when thou doest thine alms, do not sound a trumpet before thee,
+Therefore when thou doest thine alms, do not sound a trumpet before thee,
 as the hypocrites do, in the synagogues and in the streets,
 that they may have glory of men: verily I say unto you, they have their reward.
-
-"`But when thou doest alms, let not thy left hand know what thy right hand doth:
+But when thou doest alms, let not thy left hand know what thy right hand doth:
 "`That thine alms may be in secret, and thy Father which seeth in secret,
-himself shall reward thee openly.`"
+himself shall reward thee openly.`"_
 
 The Christian religion, in its purity, according to the doctrine of the founder of it,
 is a compassionate religion, and full of pity, as well as piety.
@@ -837,19 +850,17 @@ though the poor have ten times the need of it; and though Christ says,
 "`When thou makest a feast, invite not thy rich friends, for they will invite thee again;
 but call the poor, the lame, and the blind,`" etc.
 
-"`And when thou prayest, thou shalt not be as the hypocrites are,
+[.offset]
+_"`And when thou prayest, thou shalt not be as the hypocrites are,
 for they love to pray standing in the synagogues, and in the corners of the streets,
 that they may be seen of men; verily I say unto you, they have their reward.
-
-"`But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door,
+But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door,
 pray to thy Father which is in secret, and thy Father which seeth in secret,
 shall reward thee openly.
-
-"`But when ye pray, use not vain repetitions, as the heathen do:
+But when ye pray, use not vain repetitions, as the heathen do:
 for they think they shall be heard for their much speaking.
-
-"`Be not ye therefore like unto them;
-for your Father knoweth what things ye have need of before you ask him.`"
+Be not ye therefore like unto them;
+for your Father knoweth what things ye have need of before you ask him.`"_
 
 Prayer is absolutely necessary for the being and well-being of a Christian;
 an outside formal Christian may use the form, though unreformed;
@@ -893,22 +904,17 @@ But if they learn it rightly, they must also learn to live in it: that is,
 live according to it; otherwise they will mock, instead of serving Him,
 who made both it and them for his own honour, and the glory of his name.
 
-"`After this manner therefore pray ye: Our Father who art in heaven, hallowed be thy name:
-
-"`Thy kingdom come: thy will be done in earth, as it is in heaven.
-
-"`Give us this day our daily bread.
-
-"`And forgive us our debts, as we forgive our debtors.
-
-"`And lead us not into temptation, but deliver us from evil; for thine is the kingdom,
+[.offset]
+_"`After this manner therefore pray ye: Our Father who art in heaven, hallowed be thy name:
+Thy kingdom come: thy will be done in earth, as it is in heaven.
+Give us this day our daily bread.
+And forgive us our debts, as we forgive our debtors.
+And lead us not into temptation, but deliver us from evil; for thine is the kingdom,
 and the power, and the glory, forever.
 Amen.
-
-"`For if ye forgive men their trespasses, your heavenly Father will also forgive you.
-
-"`But if ye forgive not men their trespasses,
-neither will your Father forgive your trespasses.`"
+For if ye forgive men their trespasses, your heavenly Father will also forgive you.
+But if ye forgive not men their trespasses,
+neither will your Father forgive your trespasses.`"_
 
 A short form and but few words, but of excellent composition.
 And truly happy are those, who live so in their conversation, that they may,
@@ -916,7 +922,11 @@ when they use them, do it without falsehood, or deceit;
 enjoying the answer of peace in the practice of it,
 and the sense of grace influencing the soul.
 
-First; "`Our Father who art in heaven.`"
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ "`Our Father who art in heaven.`"
 The great Creator, our universal Father, hath made us and all nations, of one blood;
 but there is another, and a nearer relation to him than this,
 to be a child of God by regeneration.
@@ -928,7 +938,8 @@ and sister, and mother.`"
 It is into this relation that the soul ought to come, who can truly and religiously say,
 "`Our Father,`" etc.
 
-Second; "`Hallowed be thy name.`"
+[.numbered]
+_Second;_ "`Hallowed be thy name.`"
 Do we sanctify the holy name of the God of the whole earth?
 Do we religiously observe to fear and serve him?
 Do we profane his awful name, by taking it in vain, and living in sin and vanity?
@@ -940,7 +951,8 @@ when he shall come to judge the quick and the dead by Jesus Christ.
 God will not be mocked; such as every one sows, such shall they reap,
 whether sin unto death, or righteousness unto life.
 
-Third; "`Thy kingdom come.`"
+[.numbered]
+_Third;_ "`Thy kingdom come.`"
 His kingdom is a kingdom of righteousness.
 Happy souls! who seek the righteousness of it betimes and continue in it to the end.
 If this kingdom come, Satan`'s, which is a kingdom of sin and unrighteousness,
@@ -954,7 +966,8 @@ how can we pray without hypocrisy for the coming of God`'s holy kingdom?
 Believing we must live and die in sin, is a great support to Satan`'s kingdom,
 and a great hindrance of the coming of the kingdom of the dear Son of God.
 
-Fourth; "`Thy will be done in earth as it is in heaven.`"
+[.numbered]
+_Fourth;_ "`Thy will be done in earth as it is in heaven.`"
 Most certainly the will of God is punctually and perfectly done in heaven;
 and hardly any who make use of this blessed form but believe it is so;
 but it is the misery of many souls,
@@ -971,7 +984,8 @@ and teaches them to deny ungodliness and worldly lusts, to live soberly, and rig
 and godly, in the present world.
 But antichrist teaches that it cannot be done here on earth as in heaven.
 
-Fifth; "`Give us this day our daily bread.`"
+[.numbered]
+_Fifth;_ "`Give us this day our daily bread.`"
 We not being capable, without his blessing, of procuring bread for our bodies or souls,
 either natural or supernatural; and because our souls cannot live without the last,
 no more than our bodies without the first,
@@ -980,7 +994,8 @@ without doubting: and this should be done daily, either in words, holy sighing,
 or spiritual groans, the Almighty knowing the language of the soul in the one,
 as well as in the other.
 
-Sixth; "`Forgive us our debts, as we forgive our debtors.`"
+[.numbered]
+_Sixth;_ "`Forgive us our debts, as we forgive our debtors.`"
 Or, as one of the evangelists hath it, "`Our trespasses,
 as we forgive them who trespass against us;`" which is to the same end and purpose.
 If a debtor is indebted to us, and happens, through some accident or other,
@@ -995,7 +1010,8 @@ And since offences and trespasses will come, we must forgive, and the more freel
 when the person offending, sues for it, by humble petition, to the offended.
 If we forgive not, neither will our heavenly Father forgive us our trespasses.
 
-Seventh; "`And lead us not into temptation, but deliver us from evil;
+[.numbered]
+_Seventh;_ "`And lead us not into temptation, but deliver us from evil;
 for thine is the kingdom, the power, and the glory, forever.
 Amen.`"
 That is, lead us into truth and righteousness,
@@ -1012,14 +1028,15 @@ who is the great preserver of men: whose "`is the kingdom, and the power, and th
 forever.
 Amen,`"
 
-"`Moreover, when ye fast, be not as the hypocrites, of a sad countenance,
+====
+
+[.offset]
+_"`Moreover, when ye fast, be not as the hypocrites, of a sad countenance,
 for they disfigure their faces, that they may appear unto men to fast;
 verily I say unto you, they have their reward.
-
-"`But thou, when thou fastest, anoint thine head and wash thy face.
-
-"`That thou appear not unto men to fast, but unto thy Father which is in secret,
-and thy Father which seeth in secret shall reward thee openly,`"
+But thou, when thou fastest, anoint thine head and wash thy face.
+That thou appear not unto men to fast, but unto thy Father which is in secret,
+and thy Father which seeth in secret shall reward thee openly,`"_
 
 Christ would have all our works of piety, virtue and charity,
 all our religious duties done in the divine love and filial fear of God,
@@ -1034,13 +1051,12 @@ their heavenly Father will reward them openly: yet we must not be open sinners,
 or private ones either: for open or public sin is damning,
 if not repented of and forsaken, as well as private deceit.
 
-"`Lay not up for yourselves treasure upon earth, where moth and rust doth corrupt,
+[.offset]
+_"`Lay not up for yourselves treasure upon earth, where moth and rust doth corrupt,
 and where thieves break through and steal.
-
-"`But lay up for yourselves treasure in heaven, where neither moth nor rust doth corrupt,
+But lay up for yourselves treasure in heaven, where neither moth nor rust doth corrupt,
 and where thieves do not break through nor steal,
-
-"`For where your treasure is, there will your heart be also.`"
+For where your treasure is, there will your heart be also.`"_
 
 Earthly treasures are very apt to take up the mind and draw it from heaven,
 and because Christ would have his children to be in heaven with him,
@@ -1055,11 +1071,11 @@ and urgeth us to it, with this great reason; "`For where your treasure is,
 there will your hearts be also.`"
 Oh! may every true Christian`'s treasure and heart be there forever.
 
-"`The light of the body is the eye, if therefore thine eye be single,
+[.offset]
+_"`The light of the body is the eye, if therefore thine eye be single,
 thy whole body shall be full of light.
-
-"`But if thine eye be evil, thy whole body shall be full of darkness:
-if therefore the light which is in thee be darkness, how great is that darkness.`"
+But if thine eye be evil, thy whole body shall be full of darkness:
+if therefore the light which is in thee be darkness, how great is that darkness.`"_
 
 It is not good to look on men or things with an evil eye;
 but singly to look on one`'s self and others, in the fear of God,
@@ -1072,8 +1088,9 @@ as it is said in the holy Scriptures, a double minded man is unstable in all his
 so that our Saviour`'s doctrine is good; to have a single eye,
 and to avoid all double dealing.
 
-"`No man can serve two masters; for he will either hate the one and love the other;
-or else he will hold to the one, and despise the other: ye cannot serve God and mammon.`"
+[.offset]
+_"`No man can serve two masters; for he will either hate the one and love the other;
+or else he will hold to the one, and despise the other: ye cannot serve God and mammon.`"_
 
 We cannot give our hearts to God and to this world, and the things of it also,
 so as to set our affections on both, for the apostle saith, "`If any man love the world,
@@ -1088,13 +1105,13 @@ accommodation for ourselves and families in this world;
 but that we should not set our hearts and affections upon it;
 for we cannot equally affect both heaven and earth.
 
-"`Therefore I say unto you, take no thought for your life, what ye shall eat,
+[.offset]
+_"`Therefore I say unto you, take no thought for your life, what ye shall eat,
 or what ye shall drink; nor yet for your body, what ye shall put on:
 is not the life more than meat, and the body than raiment?
-
-"`Behold the fowls of the air: for they sow not, neither do they reap,
+Behold the fowls of the air: for they sow not, neither do they reap,
 nor gather into barns; yet your heavenly Father feedeth them.
-Are ye not much better than they.`"
+Are ye not much better than they.`"_
 
 Christ would have us without anxious thoughts about our living in this world, i. e.,
 about our eating, drinking and clothing, and tells us, "`That the life is more than meat,
@@ -1109,7 +1126,8 @@ and his blessing on the labour of our hands;
 though our hearts are not concerned unnecessarily about it,
 but we have freely given them to God, and his Christ, our Saviour.
 
-"`Which of you by taking thought, can add one cubit to his stature.`"
+[.offset]
+_"`Which of you by taking thought, can add one cubit to his stature.`"_
 
 The farmers or planters, cannot by their thoughtfulness, cause their corn, fruits,
 or cattle, to multiply or grow; nor the tradesman his custom, goods, or business,
@@ -1121,21 +1139,18 @@ All things on this wise are in the hands of Almighty God,
 and it is our duty to trust in him, and to depend upon his divine providence, for meat,
 drink and clothing, for happiness here, and hereafter, forever.
 
-"`And why take ye thought for raiment?
+[.offset]
+_"`And why take ye thought for raiment?
 consider the lilies of the field how they grow; they toil not, neither do they spin.
-
-"`And yet I say unto you, that even Solomon, in all his glory,
+And yet I say unto you, that even Solomon, in all his glory,
 was not arrayed like one of these.
-
-"`Wherefore, if God so clothe the grass of the field, which today is,
+Wherefore, if God so clothe the grass of the field, which today is,
 and tomorrow is cast into the oven, shall he not much more clothe you,
 Oh! ye of little faith.
-
-"`Therefore take no thought, saying, what shall we eat, or what shall we drink,
+Therefore take no thought, saying, what shall we eat, or what shall we drink,
 or wherewithal shall we be clothed?
-
-"`For after all these things do the gentiles seek;
-for your heavenly Father knoweth that ye have need of all these things.`"
+For after all these things do the gentiles seek;
+for your heavenly Father knoweth that ye have need of all these things.`"_
 
 Many people now, as well as then, are very fond of their clothing,
 and love to be gay and fashionable therein;
@@ -1156,12 +1171,12 @@ more than after God.
 But we, knowing that our heavenly Father seeth that we have need of all these things,
 should chiefly leave it to him, and first seek his kingdom and righteousness.
 
-"`But seek ye first the kingdom of God and his righteousness,
+[.offset]
+_"`But seek ye first the kingdom of God and his righteousness,
 and all these things shall be added unto you.
-
-"`Take therefore no thought for the morrow:
+Take therefore no thought for the morrow:
 for the morrow shall take thought for the things of itself:
-sufficient unto the day is the evil thereof.`"
+sufficient unto the day is the evil thereof.`"_
 
 Here is a glorious gospel promise;
 upon seeking first the kingdom of God and his righteousness,
@@ -1171,7 +1186,11 @@ But let us remember it must be our first work, it must be the chief desire of ou
 It must be first in several senses; first, as to our young and tender years; first,
 in the morning of every day; first, in respect of all other things.
 
-First, as it hath pleased God to give us a being in this world,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ as it hath pleased God to give us a being in this world,
 and being in the prime and flower of our years,
 we should then devote our souls to God and his work and service,
 and enter into covenant with him, with full purpose of heart,
@@ -1199,7 +1218,8 @@ and answering the noble end of God in making and planting them in this world,
 they may be transplanted into the eternal kingdom of heaven; which, doubtless, they will,
 who first seek his kingdom and the righteousness of it.
 
-Second; If we consider that our life and being is daily granted to us,
+[.numbered]
+_Second;_ If we consider that our life and being is daily granted to us,
 and we are supported by the goodness and providence of Almighty God every day,
 is it but just that he should have the first of our thoughts, in the morning of the day,
 as well as the last in the evening.
@@ -1209,7 +1229,8 @@ and my tongue cleave to the roof of my mouth;`" much
 more ought we to prefer our Creator to all things,
 and to have our thoughts on him, first in all things, and every day.
 
-Third; What are the things of this world in comparison of those that are to come;
+[.numbered]
+_Third;_ What are the things of this world in comparison of those that are to come;
 all these are fading and transitory; but the things of that which is to come,
 are durable and permanent; and therefore ought to be first and chief in our minds.
 That which is chief in our hearts, may be said to have the first place there.
@@ -1220,10 +1241,12 @@ As for the morrow, we need not to be too thoughtful or anxious concerning it,
 for we know not whether we shall live to enjoy it, so that as Christ says,
 "`Sufficient unto the day is the evil thereof.`"
 
-"`Judge not, that ye be not judged:
+====
 
-"`For with what judgment ye judge, ye shall be judged; and with what measure ye mete,
-it shall be measured to you again.`"
+[.offset]
+_"`Judge not, that ye be not judged:
+For with what judgment ye judge, ye shall be judged; and with what measure ye mete,
+it shall be measured to you again.`"_
 
 A great and wise expression, from a righteous and just Judge;
 the Judge of heaven and of earth, to whom all power in both is given;
@@ -1242,14 +1265,13 @@ and if we think we do, then to imitate God and Christ,
 and mix mercy and love with judgment; rashness and extremes in judgment,
 being commonly hurtful.
 
-"`And why beholdest thou the mote that is in thy brother`'s eye,
+[.offset]
+_"`And why beholdest thou the mote that is in thy brother`'s eye,
 but considerest not the beam that is in thine own eye?
-
-"`Or how wilt thou say to thy brother, let me pull out the mote that is in thine eye,
+Or how wilt thou say to thy brother, let me pull out the mote that is in thine eye,
 and behold a beam is in thine own eye.
-
-"`Thou hypocrite, first cast out the beam out of thine own eye,
-and then shalt thou see clearly to cast out the mote out of thy brother`'s eye.`"
+Thou hypocrite, first cast out the beam out of thine own eye,
+and then shalt thou see clearly to cast out the mote out of thy brother`'s eye.`"_
 
 True it is, that the transgressions of others are very afflicting to those who fear God,
 and this passage is not intended to hinder the good from reproving the evil;
@@ -1271,8 +1293,9 @@ we must leave them to Christ at last; whether we are in sin or without it;
 but we shall be the better able to help to reform others,
 if we are clear from guilt in our own hearts.
 
-"`Give not that which is holy to dogs, neither cast ye your pearls before swine,
-lest they trample them under their feet, and turn again and rend you.`"
+[.offset]
+_"`Give not that which is holy to dogs, neither cast ye your pearls before swine,
+lest they trample them under their feet, and turn again and rend you.`"_
 
 When we see the biting and persecuting nature, and dirty, selfish spirit of men,
 it is to little purpose, generally, to cast before them the precious pearl of truth,
@@ -1288,18 +1311,15 @@ and judgment to whom judgment belongs; without partiality,
 and without hypocrisy or deceit;
 and not to flatter and daub those who are in the doggish and swinish nature.
 
-"`Ask, and it shall be given you; seek, and ye shall find; knock,
+[.offset]
+_"`Ask, and it shall be given you; seek, and ye shall find; knock,
 and it shall be opened unto you.
-
-"`For every one that asketh, receiveth; and he that seeketh, findeth;
+For every one that asketh, receiveth; and he that seeketh, findeth;
 and to him that knocketh, it shall be opened.
-
-"`Or what man is there of you, whom if his son ask bread, will he give him a stone?
-
-"`Or if he ask a fish, will he give him a serpent?
-
-"`If ye then, being evil, know how to give good gifts to your children,
-how much more shall your Father who is in heaven give good things to them that ask him?`"
+Or what man is there of you, whom if his son ask bread, will he give him a stone?
+Or if he ask a fish, will he give him a serpent?
+If ye then, being evil, know how to give good gifts to your children,
+how much more shall your Father who is in heaven give good things to them that ask him?`"_
 
 Our kind and tender Redeemer would stir up and provoke souls to prayer and supplication;
 he has been liberal in his holy advice; and to stir us up to it,
@@ -1324,8 +1344,9 @@ therefore we may well conclude that our heavenly Father knows how to give
 with much more discretion and understanding the good things of his kingdom,
 to true asking, seeking, knocking, or praying souls.
 
-"`Therefore all things whatsoever ye would that men should do unto you,
-do ye even so to them; for this is the law and the prophets.`"
+[.offset]
+_"`Therefore all things whatsoever ye would that men should do unto you,
+do ye even so to them; for this is the law and the prophets.`"_
 
 Well may this be called the golden rule; for if we square our lives and actions by it,
 it will certainly mete us out the true way to happiness and glory.
@@ -1336,11 +1357,11 @@ whether in relation to public or private business; whether in trade or religion,
 or in our domestic affairs: the law and the prophets point at it,
 and our Saviour plainly lays it down as a rule for us to walk by.
 
-"`Enter ye in at the strait gate; for wide is the gate,
+[.offset]
+_"`Enter ye in at the strait gate; for wide is the gate,
 and broad is the way that leadeth to destruction, and many there be who go in thereat.
-
-"`Because strait is the gate, and narrow is the way that leadeth unto life,
-and few there be who find it.`"
+Because strait is the gate, and narrow is the way that leadeth unto life,
+and few there be who find it.`"_
 
 It is afflicting to consider how natural it is for people to walk in this broad way,
 and they who walk in it, are many; for here is room for people to walk if they are proud,
@@ -1363,20 +1384,16 @@ yet there are hills and valleys therein as well as plains,
 until we get through the gate of glory: there shall we know no more sorrow, nor pain;
 but shall praise and glorify God and the Lamb forever.
 
-"`Beware of false prophets, who come to you in sheep`'s clothing;
+[.offset]
+_"`Beware of false prophets, who come to you in sheep`'s clothing;
 but inwardly they are ravening wolves.
-
-"`Ye shall know them by their fruits; do men gather grapes of thorns, or figs of thistles?
-
-"`Even so every good tree bringeth forth good fruit;
+Ye shall know them by their fruits; do men gather grapes of thorns, or figs of thistles?
+Even so every good tree bringeth forth good fruit;
 but a corrupt tree bringeth forth evil fruit.
-
-"`A good tree cannot bring forth evil fruit,
+A good tree cannot bring forth evil fruit,
 neither can a corrupt tree bring forth good fruit.
-
-"`Every tree that bringeth not forth good fruit, is hewn down, and cast into the fire.
-
-"`Wherefore by their fruits ye shall know them.`"
+Every tree that bringeth not forth good fruit, is hewn down, and cast into the fire.
+Wherefore by their fruits ye shall know them.`"_
 
 The great Shepherd and Bishop of souls, shows the care which he takes of his sheep,
 and forewarns them to be careful of false prophets and deceivers; who,
@@ -1427,10 +1444,11 @@ The apostle confirms this doctrine of his Master thus,
 The apostle is plain and full, as is Christ, who repeats his doctrine over again, with,
 "`Wherefore by by their fruits ye shall know them.`"
 
-"`Not every one that saith unto me.
+[.offset]
+_"`Not every one that saith unto me.
 Lord!
 Lord! shall enter into the kingdom of heaven;
-but he that doeth the will of my Father who is in heaven.`"
+but he that doeth the will of my Father who is in heaven.`"_
 
 It is not our profession that will give us admittance into heaven, or a name of religion,
 or religious performances, if we love sin and unrighteousness; nor is it our praying,
@@ -1439,11 +1457,11 @@ if we do the works of Satan; for there are many who may go further than this,
 and yet not have admittance into the kingdom of God and our blessed Lord Jesus,
 as is plainly manifest in the next verse.
 
-"`Many will say unto me in that day, Lord, Lord, have we not prophesied in thy name,
+[.offset]
+_"`Many will say unto me in that day, Lord, Lord, have we not prophesied in thy name,
 and in thy name have cast out devils, and in thy name have done many wonderful works.
-
-"`And then I will profess to them, I know ye not; depart from me,
-ye workers of iniquity.`"
+And then I will profess to them, I know ye not; depart from me,
+ye workers of iniquity.`"_
 
 So that professing Christ`'s own name, and prophesying therein,
 without working the works of God, will not do.
@@ -1470,11 +1488,11 @@ For if we live and die in it, we may justly, according to the above doctrine of 
 expect that he will say unto us in the great day; "`Depart from me,
 ye that work iniquity.`"
 
-"`Therefore whosoever heareth these sayings of mine, and doeth them,
+[.offset]
+_"`Therefore whosoever heareth these sayings of mine, and doeth them,
 I will liken him unto a wise man, who built his house upon a rock.
-
-"`And the rains descended, and the floods came, and the winds blew,
-and beat upon that house, and it fell not; for it was founded upon a rock.`"
+And the rains descended, and the floods came, and the winds blew,
+and beat upon that house, and it fell not; for it was founded upon a rock.`"_
 
 Oh! what excellent sayings and doctrine,
 what holy precepts has Christ here recommended to the professors of his name,
@@ -1484,11 +1502,16 @@ But to commend them or to read them, or hear them only, is doing but little;
 the keeping and the doing of them is the main thing; the thing that is needful;
 and to press the practice of them, Jesus has made this apt comparison.
 
-First; "`He who hears them, and doeth them, I will liken him unto a wise man.`"
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ "`He who hears them, and doeth them, I will liken him unto a wise man.`"
 And indeed it is great wisdom to keep them, that is, to practise them,
 and as great folly to live contrary to them and plead against them.
 
-Second; "`Who built his house upon a rock.`"
+[.numbered]
+_Second;_ "`Who built his house upon a rock.`"
 This rock is Christ, the rock of ages, and his Holy Spirit, or the Holy Ghost,
 as Christ said to Peter, when Christ was revealed to him:
 "`Flesh and blood hath not revealed this unto thee,
@@ -1501,8 +1524,11 @@ through the help of which he may, without doubt, keep those holy sayings.
 For of ourselves, without it, we cannot do any real good, either in speaking, thinking,
 or acting.
 
-Third; "`And the rain descended, and the floods came, and the winds blew,
+[.numbered]
+_Third;_ "`And the rain descended, and the floods came, and the winds blew,
 and beat upon the house, and it fell not; because it was founded upon a rock.`"
+
+====
 
 If rain from above be poured out in wrath on man, for sin and iniquity,
 and floods of persecution, or the windy words of men come upon this house, it will stand:
@@ -1511,11 +1537,11 @@ should beat against our building, we being built upon the Father, Son, and Holy 
 shall surely stand them all, and live through all, if we hear or read Christ`'s sayings,
 and practise the same; we are on the rock, and shall not fall for that reason.
 
-"`And every one who heareth these sayings of mine, and doeth them not,
+[.offset]
+_"`And every one who heareth these sayings of mine, and doeth them not,
 shall be likened unto a foolish man, who built his house upon the sand.
-
-"`And the rains descended, and the floods came, and the winds blew,
-and beat upon that house, and it fell; and great was the fall of it.`"
+And the rains descended, and the floods came, and the winds blew,
+and beat upon that house, and it fell; and great was the fall of it.`"_
 
 If we read or hear these sayings, or doctrine of Christ,
 and do not dwell in the life of it, nor practise the same, it were better we knew it not.
@@ -1535,10 +1561,10 @@ with blessings and rewards to the righteous, and holy believers in him,
 who put in practice his precepts; and reproof to the disobedient and unfaithful;
 with promises of the kingdom of heaven to one, and to the other, a being shut out of it.
 
-"`And it came to pass, when Jesus had ended these sayings,
+[.offset]
+_"`And it came to pass, when Jesus had ended these sayings,
 that the people were astonished at his doctrine.
-
-"`For he taught them as one having authority, and not as the scribes.`"
+For he taught them as one having authority, and not as the scribes.`"_
 
 They were astonished at his doctrine, and well they might be,
 for it excelled even the law, and went beyond it, as when he tells them,
