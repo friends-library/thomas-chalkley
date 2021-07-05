@@ -1,6 +1,7 @@
 [short="Observations on Christ`'s Sermon on the Mount"]
 == Some Observations on Christ`'s Sermon on the Mount.
 
+[.centered]
 === Preface.
 
 Christ being the great author of the Christian religion,
@@ -1257,14 +1258,13 @@ and if we think we do, then to imitate God and Christ,
 and mix mercy and love with judgment; rashness and extremes in judgment,
 being commonly hurtful.
 
-"`And why do you behold the mote that is in your brother`'s eye,
-but consider not the beam that is in your own eye?
-
-"`Or how will you say to your brother, let me pull out the mote that is in your eye,
+[.offset]
+_"`And why do you behold the mote that is in your brother`'s eye,
+but consider not the beam that is in your own eye? Or how will you say to your brother,
+let me pull out the mote that is in your eye,
 and behold a beam is in your own eye.
-
-"`You hypocrite, first cast out the beam out of your own eye,
-and then shall you see clearly to cast out the mote out of your brother`'s eye.`"
+You hypocrite, first cast out the beam out of your own eye,
+and then shall you see clearly to cast out the mote out of your brother`'s eye.`"_
 
 True it is, that the transgressions of others are very afflicting to those who fear God,
 and this passage is not intended to hinder the good from reproving the evil;
