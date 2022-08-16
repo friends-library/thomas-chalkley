@@ -4,7 +4,10 @@
 [.centered]
 === Preface.
 
-Temperate reader, The longer we live in the world,
+[.salutation]
+Temperate reader,
+
+The longer we live in the world,
 the more we see the danger and many mischiefs, miseries and inconveniences,
 intemperance occasions to mankind, not only in eating, clothing, buying and selling,
 etc., but particularly in that great sin of drinking to excess.
@@ -36,7 +39,7 @@ parents`' examples are very hurtful in evil things,
 though very helpful in that which is good.
 If a man sees a youth to be out of order, and reproves him for being in drink,
 evil speaking, pride, covetousness, etc., and he guilty of the same,
-his child may answer, Why father, I had not done so, if I had not seen you, or you,
+his child may answer, Why father, I had not done so, if I had not seen you
 do it!
 And it being an incumbent duty in a father, mother, master, or mistress,
 to reprove their youth for evil;
@@ -332,7 +335,7 @@ Now, instead of her gold chain, she must take up with an iron one;
 and in a little time be tried for her life.
 In expectation of death, being in great distress, she sent for me,
 and entreated me to come and see her die, and much lamented her condition:
-"`Oh! said she, "`that I might be a warning to all young people,
+"`Oh!`" said she, "`that I might be a warning to all young people,
 to be careful that they keep not evil company,
 and spend their time which should be spent in worship, in airy company,
 and other vain diversions, when they should be doing their duty to God.`"
